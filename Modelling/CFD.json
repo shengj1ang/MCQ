@@ -1,0 +1,280 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the basic principle of fluid mechanics?",
+      "options": {
+        "A": "Momentum principle",
+        "B": "Energy equation",
+        "C": "Continuity equation",
+        "D": "All of the mentioned"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "What is fluid mechanics?",
+      "options": {
+        "A": "Study of fluid behaviour at rest",
+        "B": "Study of fluid behaviour in motion",
+        "C": "Study of fluid behaviour at rest and in motion",
+        "D": "Study of fluid behaviour at rest or in motion"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "What is fluid mechanics used for?",
+      "options": {
+        "A": "Fluid mechanics enables to comprehend the behaviour of solid fluids under pressure",
+        "B": "Fluid mechanics enables to comprehend the behaviour of fluids under a variety of forces and atmospheric conditions",
+        "C": "Fluid mechanics enables to comprehend the behaviour of fluids under various temperatures only",
+        "D": "None of the mentioned"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "If a person studies about a fluid which is in motion, what will you call his domain of study?",
+      "options": {
+        "A": "Fluid Dynamics",
+        "B": "Fluid Mechanics",
+        "C": "Fluid Statics",
+        "D": "Fluid Kinematics"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following method is used exclusively in fluid mechanics?",
+      "options": {
+        "A": "Eulerian method",
+        "B": "Lagrangian method",
+        "C": "Neither Lagrangian nor Eulerian method",
+        "D": "Both Lagrangian and Eulerian methods"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Stagnation point is the point in fluid mechanics where the velocity of the fluid at that point is",
+      "options": {
+        "A": "unity",
+        "B": "constant",
+        "C": "infinite",
+        "D": "zero"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "When a fluid is subjected to resistance, it undergoes a volumetric change due to",
+      "options": {
+        "A": "Cohesion",
+        "B": "Strain",
+        "C": "Compressibility",
+        "D": "Adhesion"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which among the following is not global parameter of the fluid?",
+      "options": {
+        "A": "Mass flow rate",
+        "B": "Density",
+        "C": "Viscosity",
+        "D": "External diameter"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following statements is correct about the shear stress distribution in circular pipes with laminar flow?",
+      "options": {
+        "A": "It is linear with maximum value at the centre",
+        "B": "It is parabolic with maximum value at the centre",
+        "C": "It is parabolic with zero value at the centre",
+        "D": "It is linear with zero value at the centre"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "If a fluid enters a pipe of diameter d with a velocity v. What will be the exit velocity if the exit diameter is d/2.",
+      "options": {
+        "A": "v/2",
+        "B": "2v",
+        "C": "4v",
+        "D": "v"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "One of the observations of Reynolds in 1883",
+      "options": {
+        "A": "When the velocity of the fluid was low, the dye filament in the glass tube was randomly distributed",
+        "B": "The straight line of dye filament parallel to the glass tube was the case of laminar flow",
+        "C": "With the increase in velocity of flow, the dye filament fails to produce shear stresses",
+        "D": "With the increase in velocity of flow, the dye filament was in the form of a straight line"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Reynold’s number of the flow of a fluid in a horizontal circular tube of constant diameter is 1200. If the diameter of the tube and the kinematic viscosity of the fluid are doubled and that discharged at the pipe exit is unchanged, then the new Reynold’s number for the flow in the tube will be",
+      "options": {
+        "A": "4800",
+        "B": "1200",
+        "C": "600",
+        "D": "300"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "Reynold’s number is the ratio of",
+      "options": {
+        "A": "Thermal conductivity to kinematic viscosity",
+        "B": "Heat convected to heat conduction",
+        "C": "Inertia force to viscous force",
+        "D": "None of the above"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Water enters a circular pipe of length ℓ = 5m and diameter d = 0.2m with a Reynold’s  number of 500. The velocity profile at the inlet of the pipe is uniform while it is parabolic at the exit. What is the Reynold’s number at the exit of the pipe?",
+      "options": {
+        "A": "250",
+        "B": "500",
+        "C": "1000",
+        "D": "2000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Mach number is the ratio of",
+      "options": {
+        "A": "Inertia to viscous forces",
+        "B": "Inertia to gravitational forces",
+        "C": "Gravitational to viscous forces",
+        "D": "Inertia to elastic forces"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question": "The frictional resistance for turbulent flow is",
+      "options": {
+        "A": "Dependent on pressure",
+        "B": "Independent to the area of surface in contact",
+        "C": "Proportional to the density of the fluid",
+        "D": "Independent to the nature of surface"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "In case of a turbulent flow in a pipe, the shear stress is",
+      "options": {
+        "A": "Maximum at the wall and decreases linearly to zero at the centre",
+        "B": "Maximum at the midway between centre line and the wall",
+        "C": "Maximum at the centre and decreases linearly towards the wall",
+        "D": "Maximum at the centre and decreases logarithmically towards the wall"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "If the particles of a fluid attain such velocities that vary from point to point in magnitude and direction as well as from instant to instant, the flow is said to be",
+      "options": {
+        "A": "Uniform flow",
+        "B": "Laminar flow",
+        "C": "Non-uniform flow",
+        "D": "Turbulent flow"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "The frictional resistance in a turbulent flow is independent of the",
+      "options": {
+        "A": "Velocity of fluid",
+        "B": "Pressure",
+        "C": "Surface roughness",
+        "D": "Density"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Considering a turbulent flow of a fluid through a circular pipe of diameter D. Which of these statements are correct?",
+      "options": {
+        "A": "The fluid is mixed well",
+        "B": "The mixing is nonuniform",
+        "C": "ReD > 2300",
+        "D": "ReD < 2300"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "In turbulent flow in a pipe, we know that the",
+      "options": {
+        "A": "Reynolds number is greater than 10000",
+        "B": "Fluid particles move in a straight line",
+        "C": "Head loss varies linearly with flow rate",
+        "D": "Shear stress varies linearly with radius"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Is turbulence is caused by excessive kinetic energy?",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Is laminar flow used to increase the drag and reduce the lift?",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "The flow over a golf ball is stationary?",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Does the surface of a golf ball used to perturb the boundary layer and promote turbulence?",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "In the problem we have used a Forward Euler time stepping and we know it to be explicit. \nIs backward Euler an implicit or explicit method?",
+      "options": {
+        "A": "implicit",
+        "B": "explicit"
+      },
+      "answer": "A"
+    }
+  ]
+}

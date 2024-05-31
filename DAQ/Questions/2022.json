@@ -1,0 +1,230 @@
+[
+    {
+      "id": "2022_Q1",
+      "question": "In LabVIEW, what is a good way of transferring multiple data types at once? (a single answer is correct)",
+      "options": {
+        "A": "Clusters",
+        "B": "1-D Arrays",
+        "C": "2-D Arrays",
+        "D": "Enums"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "2022_Q2",
+      "question": "Which types of data can a case structure use as a selector? (More than one answer may be correct).",
+      "options": {
+        "A": "Enum",
+        "B": "Numeric",
+        "C": "Array",
+        "D": "Boolean"
+      },
+      "answer": "ABD"
+    },
+    {
+      "id": "2022_Q3",
+      "question": "Which indicator, illustrated in the code below, will display data first? (a single answer is correct)",
+      "options": {
+        "A": "Indicator 1",
+        "B": "Indicator 2",
+        "C": "Both at the same time",
+        "D": "Cannot say"
+      },
+      "answer": "BC",
+      "image": "2022_Q3.png"
+    },
+    {
+      "id": "2022_Q4",
+      "question": "Which of the following statements regarding signal conditioning are correct? (More than one answer may be correct).",
+      "options": {
+        "A": "Attenuation of a signal is required for measuring small voltage signals.",
+        "B": "Signal conditioning can be utilized to correct for the nonlinearity of sensors.",
+        "C": "Electrical Isolation protects both operators of Data Acquisition (DAQ) equipment and the equipment itself.",
+        "D": "Multiplexors makes Data Acquisition (DAQ) systems expensive and should be avoided for high channel count applications."
+      },
+      "answer": "BCD"
+    },
+    {
+        "id": "2022_Q5",
+        "question": "A Data Acquisition system has been developed to monitor the deflection of an aircraft wing for a dynamic test. Sensors are placed on the wing and 20m of cabling is used to pass the sensor signals to a central Data Acquisition (DAQ) system. The signals of interest are under 30Hz and there is a problem with high frequency noise in the measurements. Which of the following solutions could solve the problem? (More than one answer may be correct).",
+        "options": {
+          "A": "Applying a high pass filter to the sensor signals before they reach the DAQ system",
+          "B": "Applying a low pass filter to the sensor signals before they reach the DAQ system",
+          "C": "Applying an amplifier to the sensor signal before sending it through the cabling.",
+          "D": "Applying a second order Butterworth filter with a cut off frequency of 40Hz"
+        },
+        "answer": "BCD"
+      },
+      {
+        "id": "2022_Q6",
+        "question": "Which of the following statements about an optical quadrature encoder with 300 counts per revolution are correct? (More than one answer may be correct).",
+        "options": {
+          "A": "The resolution will be 0.3°",
+          "B": "The resolution will be 0.6°",
+          "C": "Differentiating the signal encoder output will produce a noiseless angular velocity signal.",
+          "D": "The output of the encoder will be a analogue signal."
+        },
+        "answer": "AC"
+      },
+      {
+        "id": "2022_Q7",
+        "question": "Which of the following statements about ultrasonic sensors is correct? (A single answer is correct).",
+        "options": {
+          "A": "Ultrasonic sensors use ultrasound at a frequency of 2KHz.",
+          "B": "Two ultrasonic sensors cannot interfere with each other.",
+          "C": "The bearing of the ultrasonic sensor will have a finite uncertainty.",
+          "D": "Environmental noise can affect an ultrasonic sensor."
+        },
+        "answer": "D"
+      },
+      {
+        "id": "2022_Q8",
+        "question": "Which of the following statements are correct? (More than one answer may be correct).",
+        "options": {
+          "A": "Foil strain gauges are immune to electro-magnetic noise.",
+          "B": "Aliasing is caused by a sampling rate which is too low for the frequencies being measured.",
+          "C": "Quadrature rotary encoders can be used to determine the direction of a shaft’s rotation.",
+          "D": "The Sensitivity of a system is defined as the slope of the output characteristic curve."
+        },
+        "answer": "BCD"
+      },
+      {
+        "id": "2022_Q9",
+        "question": "What is the resolution (code width) of a 12-bit ADC with a voltage signal range of 0V to +5V? (A single answer is correct)",
+        "options": {
+          "A": "0.732mV",
+          "B": "1.22mV",
+          "C": "2.44V",
+          "D": "0.208V"
+        },
+        "answer": "B"
+      },
+
+      {
+        "id": "2022_Q10",
+        "question": "What is the result in subarray after the code illustrated below has been executed? (A single answer is correct)",
+        "options": {
+          "A": "1-D array of (8,5,7)",
+          "B": "1-D array of (10, 8, 5)",
+          "C": "1-D array of (10, 8, 5, 7)",
+          "D": "1-D array of (7, 10, 8, 5)"
+        },
+        "answer": "C",
+        "image": "2022_Q10.png"
+      },
+      {
+        "id": "2022_Q11",
+        "question": "Determine how many bits an analogue to digital convertor must provide to output increments of 0.02V or less. The reference voltage is 10V. (A single answer is correct)",
+        "options": {
+          "A": "8 bit",
+          "B": "9 bit",
+          "C": "12 bit",
+          "D": "16 bit"
+        },
+        "answer": "B"
+      },
+      {
+        "id": "2022_Q12",
+        "question": "Which of the following statements are correct? (More than one answer may be correct)",
+        "options": {
+          "A": "The highest number that can be represented using an 8-bit representation is 256.",
+          "B": "The 6-bit binary number 001011 represents the decimal number 11.",
+          "C": "Sensors which utilize digital signals as outputs are less susceptible to low voltage noise induced in the transmission wiring.",
+          "D": "Multiplexers can be utilized in DAQ systems to increase the sample rate."
+        },
+        "answer": "BC"
+      },
+      {
+        "id": "2022_Q13",
+        "question": "Inspect the LabVIEW code below. Identify which of the statements a) – d) are correct. (More than one answer may be correct)",
+        "options": {
+          "A": "The loop will execute 5 times.",
+          "B": "Values will be inserted into ‘Output Array’ corresponding to the iteration terminal value multiplied by 2.",
+          "C": "The Loop will execute once per second.",
+          "D": "The ‘DBL’ function will output a value equivalent to the iteration terminal value multiplied by two."
+        },
+        "answer": "AB",
+        "image": "2022_Q13.png"
+      },
+      {
+        "id": "2022_Q14",
+        "question": "Inspect the LabVIEW code below. Which of the statements a) – d) are correct? (More than one answer may be correct)",
+        "options": {
+          "A": "The top loop will execute at 3 times.",
+          "B": "The bottom loop will not execute.",
+          "C": "The bottom loop will execute at twice the speed of the top loop.",
+          "D": "‘Indicator 3’ will display a value of three when the code finishes executing."
+        },
+        "answer": "ACD",
+        "image": "2022_Q14.png"
+      },
+      {
+        "id": "2022_Q15",
+        "question": "Which of the following statements are correct? (More than one answer may be correct)",
+        "options": {
+          "A": "To reduce problems associated with aliasing you should apply a low pass filter at half the sampling frequency.",
+          "B": "Aliasing means that frequencies at greater than half the sampling frequency will appear as frequencies below half the sampling frequency.",
+          "C": "The resolution of a system is the smallest increment it can measure.",
+          "D": "Buffered I/O should be used when the sample rate needs to be variable."
+        },
+        "answer": "AB"
+      },
+      {
+        "id": "2022_Q16",
+        "question": "The LabVIEW code below illustrates a For loop. What will be the output of ‘Indicator’ when the loop finishes? (A single answer is correct)",
+        "options": {
+          "A": "8",
+          "B": "1024",
+          "C": "0",
+          "D": "7"
+        },
+        "answer": "A",
+        "image": "2022_Q16.png"
+      },
+      {
+        "id": "2022_Q17",
+        "question": "Which of the following statements are correct? (More than one answer may be correct)",
+        "options": {
+          "A": "The four standard elements of a DAQ device are Analogue Output, Analogue Input, Digital I/O, Counters.",
+          "B": "Potentiometers are ill suited to measuring continuous revolutions of the wheels of a mobile robot.",
+          "C": "Sensors utilizing modulated infrared signals can detect a signal even if the strength is low.",
+          "D": "In general, an analogue sensor is less susceptible to noise than a sensor with a digital output."
+        },
+        "answer": "AC"
+      },
+      {
+        "id": "2022_Q18",
+        "question": "Which of the following statements are correct? (A single answer is correct)",
+        "options": {
+          "A": "A For Loop must execute at least once",
+          "B": "A For Loop can have a conditional terminal",
+          "C": "You cannot have a While Loop within a While Loop.",
+          "D": "A While Loop can only execute 100 times."
+        },
+        "answer": "AC"
+      },
+      {
+        "id": "2022_Q19",
+        "question": "Which of the following statements about race conditions is correct? (A single answer is correct)",
+        "options": {
+          "A": "Most race conditions only occur when a resource has multiple writers.",
+          "B": "Race conditions only occur when a resource has multiple readers.",
+          "C": "You can avoid race conditions by using variables.",
+          "D": "Code with race conditions behaves the same every time it is executed."
+        },
+        "answer": "A"
+      },
+      {
+        "id": "2022_Q20",
+        "question": "Which of the following statements are correct? (More than one answer may be correct)",
+        "options": {
+          "A": "SubVIs are an efficient way of programming as they can be reused.",
+          "B": "SubVIs enable quicker code debugging as their modularity enables quick testing.",
+          "C": "The resolution of a data acquisition card is dependent on the bit length e.g. 12bit, 16bit.",
+          "D": "Hysteresis is a desirable attribute of data acquisition card."
+        },
+        "answer": "ABC"
+      }
+
+  ]
+  

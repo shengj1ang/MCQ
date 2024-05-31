@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which one of the following statements is correct for plain carbon steels?",
+      "options": {
+        "A": "The only phases that can form in plain carbon steels are those that appear on the Fe-Fe3C phase diagram.",
+        "B": "The Fe-Fe3C phase diagram cannot be used to predict the phases that are present in a steel if it contains a high number of vacancy defects.",
+        "C": "The Fe-Fe3C phase diagram can be used to predict whether martensite is likely to form in a steel or not.",
+        "D": "Constant cooling transformation (CCT) diagrams can be used to predict the phases that will form when austenite is cooled to ambient temperature at a constant rate.",
+        "E": "The Fe-Fe3C phase diagram is useful for determining the ductile-to-brittle transition temperature."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "Which one of the following statements is correct for ferrite in plain carbon steels?",
+      "options": {
+        "A": "Ferrite is a phase that is not stable at ambient temperature",
+        "B": "Ferrite will transform to martensite when it is cooled rapidly.",
+        "C": "Ferrite will exhibit a ductile-to-brittle transition.",
+        "D": "Ferrite forms when grains of austenite undergo a shear transformation.",
+        "E": "Ferrite is a face-centred cubic form of iron that forms when a steel is cooled slowly from elevated temperatures."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which one of the following statements is correct in relation to pearlite in steels?",
+      "options": {
+        "A": "Pearlite is a single phase comprising a mixture of ferrite and cementite",
+        "B": "An increase in the proportion of pearlite in the microstructure, and a reduction in the proportion of ferrite, will lead to increased toughness for the steel.",
+        "C": "The spacing of the lamellae (i.e. alternating layers) of ferrite and cementite in pearlite can change depending on the rate at which austenite is cooled.",
+        "D": "When austenite is cooled, pearlite can only form if some ferrite forms beforehand.",
+        "E": "Pearlite refers to a mixture of ferrite and cementite that forms via a shear transformation."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which one of the following is correct for normalised (slow-cooled) steels?",
+      "options": {
+        "A": "An increase in the proportion of pearlite will lead to an increase in strength.",
+        "B": "Normalised steels do not exhibit a ductile-to-brittle transition.",
+        "C": "Pearlite has a face-centred cubic (FCC) crystal structure.",
+        "D": "It is never possible to achieve a microstructure comprising 100% pearlite.",
+        "E": "An increase in the proportion of pearlite will lead to an increase in toughness."
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "What is the primary purpose of a quench and temper (QT) heat treatment?",
+      "options": {
+        "A": "To achieve a martensitic microstructure in the steel",
+        "B": "To reduce the ductile-to-brittle transition temperature.",
+        "C": "To avoid the excessive oxidation that occurs during air cooling of steels",
+        "D": "To eliminate the formation of cementite.",
+        "E": "To produce a steel with a higher strength than can be achieved through slow cooling from the austenitic state, while retaining sufficient toughness."
+      },
+      "answer": "E"
+    },
+    {
+      "id": 6,
+      "question": "Which one of the following is correct for the austenitisation step in QT heat  treatments?",
+      "options": {
+        "A": "Austenite has a body-centred cubic (BCC) crystal structure.",
+        "B": "It is important to achieve a fully austenitic microstructure in this step to ensure that the chemical composition is uniform throughout the steel.",
+        "C": "Austenite is a phase that does not have any grain boundaries",
+        "D": "The formation of austenite promotes the formation of fine carbides throughout the microstructure.",
+        "E": "Austenitising is carried out to eliminate the ductile-to-brittle transition in steels."
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which one of the following is correct for the quenching step in QT heat treatments?",
+      "options": {
+        "A": "The purpose of quenching is to retain an austenitic microstructure at ambient temperature.",
+        "B": "Martensite refers to a microstructure that forms when the rate of atomic  diffusion is very high.",
+        "C": "Martensite is a phase containing a uniform distribution on fine carbides",
+        "D": "Martensite can only form in steels that have a low toughness.",
+        "E": "Water quenching can generate internal stresses that are large enough to cause “quench cracking” in some steels"
+      },
+      "answer": "E"
+    },
+    {
+      "id": 8,
+      "question": "Which one of the following statements is correct for the tempering of steels?",
+      "options": {
+        "A": "The purpose of tempering is to prevent atomic diffusion in the steel.",
+        "B": "Tempering can result in the formation of pearlite.",
+        "C": "The purpose of tempering is to restore strength through a reversal of the martensitic shear transformation",
+        "D": "Tempering is carried out to increase the toughness of the steel.",
+        "E": "The purpose of tempering is to avoid martensite transforming into pearlite."
+      },
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which one of the following statements is correct in relation to the alloying of steels?",
+      "options": {
+        "A": "Substitutional alloying elements can only be present in a steel if there are vacancies in the crystal lattice",
+        "B": "Substitutional alloying elements are added to prevent the formation of martensite when quenching thick sections of steel.",
+        "C": "When austenite is cooled, the presence of substitutional alloying elements acts  to retard time-dependent transformations to ferrite, pearlite and bainite",
+        "D": "Substitutional alloying elements are added to a steel to reduce the likelihood  of cracking during quenching",
+        "E": "Substitutional alloying elements are added to avoid the need for tempering  after a quenching operation."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which one of the following statements is correct for fusion welded joints in steels?.",
+      "options": {
+        "A": "A high carbon equivalent value for a steel would indicate that there is significant potential for cracking to occur when a joint cools after welding.",
+        "B": "The carbon equivalent value can be used to calculate the width of the heataffected zone (HAZ) for a welded joint.",
+        "C": "A high carbon equivalent value for a steel would suggest that it is not necessary to preheat the joint prior to welding.",
+        "D": "A high carbon equivalent value indicates that a steel is unlikely to be at risk of brittle fracture after welding.",
+        "E": "The carbon equivalent value can be used to calculate a suitable hold temperature for a post-weld heat treatment operation."
+      },
+      "answer": "A"
+    }
+  ]
+}

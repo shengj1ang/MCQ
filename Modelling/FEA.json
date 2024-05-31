@@ -1,0 +1,257 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which factor is not typically considered when assessing the quality of a finite element mesh?",
+      "options": {
+        "A": "Element aspect ratio",
+        "B": "Skewness of elements",
+        "C": "Number of elements in the mesh",
+        "D": "Smoothness of element boundaries"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "In Finite Element Method, what purpose do boundary conditions serve?",
+      "options": {
+        "A": "To specify the material properties of the elements",
+        "B": "To apply loads to the structure",
+        "C": "To model external environmental effects",
+        "D": "To restrict the displacements at certain locations"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "In the Finite Element Method, how are material properties typically incorporated into the analysis?",
+      "options": {
+        "A": "Material properties are directly input as constants into the element",
+        "B": "Material properties are derived from the boundary conditions",
+        "C": "Material properties are interpolated within the elements using shape functions",
+        "D": "Material properties are irrelevant for most FEM analyses"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "What consideration is typically important when selecting a solver for Finite Element Analysis?",
+      "options": {
+        "A": "The complexity of the problem geometry",
+        "B": "The colour scheme used in the visualization software",
+        "C": "The availability of open-source code",
+        "D": "The size of the input file"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "In the Finite Element Method, what role do interpolation functions serve?",
+      "options": {
+        "A": "Defining the element's physical properties",
+        "B": "Approximating the unknown field variables within the element",
+        "C": "Specifying the boundary conditions",
+        "D": "Defining the mesh connectivity"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "How are the degrees of freedom typically defined for a beam in the Finite Element Method?",
+      "options": {
+        "A": "Two rotational and one translational",
+        "B": "Three translational in x, y, and z directions",
+        "C": "One translational in the x-direction only",
+        "D": "Two rotational and two translational"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Why are elements with poor aspect ratios generally avoided in Finite Element Analysis?",
+      "options": {
+        "A": "They lead to faster convergence",
+        "B": "They result in more accurate solutions",
+        "C": "They result in more inaccurate solutions",
+        "D": "They simplify the modelling process"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "The quality of the mesh in Finite Element Analysis (FEA) affects:",
+      "options": {
+        "A": "The colour of the plot",
+        "B": "The speed of the computer",
+        "C": "The accuracy of the results",
+        "D": "The size of the input file"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "What is the primary purpose of interpolation functions (shape functions) in the Finite Element Method?",
+      "options": {
+        "A": "To approximate the geometry of the elements",
+        "B": "To define the material properties of the elements",
+        "C": "To interpolate the unknown field variables within the elements",
+        "D": "To determine the size of the finite elements"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "In the Finite Element Method, what does the assembly process involve?",
+      "options": {
+        "A": "Constructing the stiffness matrix",
+        "B": "Breaking down the problem domain into finite elements",
+        "C": "Applying boundary conditions to the system",
+        "D": "Solving the system of equations iteratively"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "What is the primary objective of mesh refinement in Finite Element Analysis?",
+      "options": {
+        "A": "To reduce computational cost",
+        "B": "To increase the number of elements",
+        "C": "To improve the accuracy of the solution",
+        "D": "To simplify the post-processing stage"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "What effect does increasing mesh density have on Finite Element Analysis?",
+      "options": {
+        "A": "Decreases computational cost",
+        "B": "Increases computational accuracy",
+        "C": "Speeds up convergence",
+        "D": "Reduces the need for boundary conditions"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Why is it important to maintain high-quality elements in a mesh?",
+      "options": {
+        "A": "It reduces the number of elements required",
+        "B": "It speeds up the solution process",
+        "C": "It improves the accuracy of the results",
+        "D": "It allows for simpler boundary conditions"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Under what circumstances might mesh refinement be necessary?",
+      "options": {
+        "A": "To reduce computational cost",
+        "B": "To simplify the model",
+        "C": "To capture localized effects or gradients",
+        "D": "To decrease the number of nodes in the mesh"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "What factor(s) determine the choice of element type in meshing?",
+      "options": {
+        "A": "Material properties only",
+        "B": "Geometry and physics of the problem",
+        "C": "Computational cost only",
+        "D": "Meshing software preferences"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "How can the quality of a mesh be assessed?",
+      "options": {
+        "A": "By its visual appearance only",
+        "B": "Through quantitative measures like aspect ratio and skewness",
+        "C": "By the number of elements it contains",
+        "D": "By the colour of the elements in the visualization"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "What does the assembly process involve in constructing the global stiffness matrix?",
+      "options": {
+        "A": "Combining local element stiffness matrices using a simple averaging method",
+        "B": "Ignoring boundary conditions to simplify the process",
+        "C": "Applying element-wise multiplication between nodes",
+        "D": "Summing contributions from individual elements according to their nodal connectivity"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Why is proper element connectivity crucial during the assembly process?",
+      "options": {
+        "A": "It ensures that boundary conditions are correctly applied",
+        "B": "It simplifies the visualization of the finite element model",
+        "C": "It allows for more efficient memory allocation",
+        "D": "It ensures that the global stiffness matrix is assembled correctly"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "Which matrix storage format is commonly used to efficiently store the global stiffness matrix?",
+      "options": {
+        "A": "Dense matrix format",
+        "B": "Sparse matrix format",
+        "C": "Triangular matrix format",
+        "D": "Diagonal matrix format"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "The Finite Element Method is fundamentally based on which of the following mathematical approaches?",
+      "options": {
+        "A": "Differential calculus",
+        "B": "Variational methods",
+        "C": "Probability theory",
+        "D": "Fourier analysis"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "What does the process of discretization involve in the context of FEM?",
+      "options": {
+        "A": "Dividing the problem domain into a finite number of smaller, simpler parts called elements",
+        "B": "Converting a linear problem into a nonlinear one for easier solution",
+        "C": "Integrating differential equations over the entire domain at once",
+        "D": "Approximating continuous variables with discrete counterparts"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "What role do shape functions play in Finite Element Analysis?",
+      "options": {
+        "A": "They define the temperature distribution within each element",
+        "B": "They determine the size of the elements in the mesh",
+        "C": "They describe how displacement is interpolated within an element",
+        "D": "They calculate the exact solution to the problem"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "The global stiffness matrix in FEM represents what physical concept?",
+      "options": {
+        "A": "The work done by external loads",
+        "B": "The resistance of the structure to deformation",
+        "C": "The velocity of sound through the structure",
+        "D": "The thermal conductivity of the material"
+      },
+      "answer": "B"
+    }
+  ]
+}
