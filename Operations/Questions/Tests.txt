@@ -1,0 +1,219 @@
+Test1
+At what product/service life cycle stage is an organisation most likely to compete with the highest number of substitutes?
+A.	Introduction 
+B.	Growth 
+C.	Decline
+D.	Maturity ✅
+
+What product/service life cycle stage is often considered the costliest? 
+A.	Decline
+B.	Maturity
+C.	Introduction ✅
+D.	Growth
+
+Which International Standards Organisation (ISO) series deals with the Quality Management System?
+A.	ISO 9001
+B.	ISO 9000 ✅
+C.	ISO 9002
+D.	ISO 9003
+Response Feedback:	ISO 9000 is the series and ISO 9001, ISO 9002 and ISO 9003 are all part of the ISO 9000 series.
+
+The statement “A vibrant higher education institution in the North West of England” is an example of:
+A.	Vision ✅
+B.	Mission
+C.	Strategy
+D.	Objective
+
+Which of the following activities is least associated with the “Speculation Phase” of Value Engineering?
+A.	Detailed development ✅
+B.	Alternatives generation
+C.	Brainstorming
+D.	Alternatives ranking
+
+Test2
+A process that handles extremely low-volume and high-variety can be referred to as:
+A.	Jobbing process
+B.	Mass process
+C.	One-off process ✅
+D.	Batch process
+
+The fraction of time that a process is unavailable for production can be referred to as:
+A.	Turnover
+B.	Cycle time
+C.	Downtime ✅
+D.	Throughput
+
+Which of these is/are LEAST used to measure process reliability in operations management?
+A.	Mean time to failure
+B.	Mean time between failures
+C.	Repair rate ✅
+D.	Failure rate
+
+A measure of the number of items that require re-manufacturing can be referred to as:
+A.	Rework ✅
+B.	Corrective maintenance
+C.	Maintainability
+D.	Repair rate
+
+Test3
+A raw material with a constant Demand (D = 500 items/year), Ordering Cost (Co = £40/order), Storage Costs (Cs = £2/item/year), and Working Capital Cost (Cw = £2/item/year). The Econoic Order Quantity (EOQ) for this product is:
+A.	142 items/order
+B.	500 Items/Order
+C.	400 items/order
+D.	200 items/order
+E.	100 items/order ✅
+Response Feedback:	Holding Cost (Ch) = Cs + Cw = 2 + 2 = £4/item/year. EOQ = SQRT(2*Co*D/Ch) = SQRT(2*40*500/4) = 100 items/order
+
+In terms of inventory-related costs, loss when items become old-fashioned or deteriorate by age is better described as:
+A.	Storage/warehouse costs
+B.	Cost of placing the order
+C.	Obsolescence costs ✅
+D.	Working capital costs
+E.	Price discount costs
+Response Feedback:	In terms of inventory-related costs, loss when items become old-fashioned or deteriorate by age is better described as: Obsolescence costs.
+
+Which of the following are NOT features of the "Periodic Review" approach to inventory management: (you can select more than one answer)
+A.	The stock level for the product is reviewed continuously ✅
+B.	Orders are placed to bring the stock up to an adequate level that covers demand between the time this order is being placed and the following order arriving.
+C.	The timing of orders may be irregular ✅
+D.	Orders are made at fixed and a regular time intervals
+E.	Triggered by inventory level ✅
+
+All supply chain management strategies share one common and central objective, which is:
+A.	Supply price competitive products and services to customers
+B.	Respond to all changes and fluctuations in customer demand 
+C.	Satisfy customer needs and meet their requirements ✅
+D.	Deliver customer orders very fast
+E.	Supply high quality products to end customers
+
+Which of the following are NOT features of "Agile Supply Chain Management"? (you can select more than one answer)
+A.	Low cost and high utilisation ✅
+B.	Keeping minimum stocks of raw materials ✅？？？
+C.	Associated with long lead times ✅
+D.	Emphasizes responsiveness and flexibility
+E.	Used to manage supply chains of innovative/fashion products
+
+Test4
+_____________ typical deals with the analysis of the different ways by which an operations process can fail.
+A.	Reliability block diagram
+B. Reliability centred maintenance
+C.	Total quality management
+D.	Fault tree analysis ✅
+
+Which of the following is/are characteristics of business process re-engineering?
+A.	Process based analysis✅
+B.	Radical improvement✅
+C.	Functional analysis
+D.	Training
+
+_____________ typical deals with the analysis of the different ways by which an operations process can succeed.
+A.	Reliability block diagram✅
+B.	Minimal cut sets
+C.	Reliability availability and maintainability
+D.	Fault tree analysis
+
+According to the Operations System model, techniques such as total productive maintenance and total quality management would be most associated with which order of change?
+A.	First 
+B.	Second
+C.	Third
+D.	Fourth✅
+
+Test5
+The term die penetrant tests on at least 85% of produced load cells is most related to which aspect of the operations system model?
+A.	Quality assurance
+B.	Effectiveness
+C.	Efficiency
+D.	Quality control✅
+
+The following statements are most related to which aspect of the operations process model?
+- 100% calibration of all CNC machines after every shift
+- Employment of machinists with at least 6 years’ experience in high precision machining especially with military workshops
+A.	Quality control
+B.	Reliability❌
+C.	Effectiveness
+D.	Quality assurance✅
+
+The term wrought iron is most related to which aspect of the operations system model?
+A.	Input✅
+B.	Output
+C.	Materials✅❓
+D.	Operations strategy
+
+The following statements are most related to which aspects of the operations system model?
+- COVID-19 imposed travel and operational restrictions
+- Legal actions
+- Massive strike actions across its manufacturing sites globally
+A.	Third order change✅
+B.	PESTEL✅
+C.	Legal✅
+D.	Economic✅
+
+The statement "looseness of lathe machine tool post at high speed and this is usually rectified by changing the fixation bolts at the leading edge before the commencement of the next batch of products" is most related to which aspect of the operations system model?
+A.	Input
+B.	Machine❌
+C.	First order change✅
+D.	Materials
+
+The term centralised business solution is most related to which aspect of the operations system model?
+A.	Enterprise resource planning✅
+B.	Technical database
+C.	Reporting system
+D.	Performance analysis
+
+The term FRP is most related to which aspect of the operations system model?
+A.	Materials✅
+B.	Methods
+C.	Transformation
+D.	Reliability
+
+Drilling, shaping, boring, grinding and milling are terms that are most related to which aspect of the operations system model?
+A.	Transformation✅
+B.	Output
+C.	Reliability
+D.	Continuous improvement
+
+The term advanced high strength steels is most related to which aspect of the operations system model?
+A.	Input
+B.	Output✅
+C.	Quality assurance (QA)❌
+D.	Quality control (QC)
+
+The statement decision was made to locally source alternative raw materials is most related to which aspect of the operations system model?
+A.	Improvement✅❓
+B.	Input✅
+C.	Transformation
+D.	Turnover
+
+
+Test6
+Which of these is a reason for continuous improvement in operations
+A.	High lost time injuries frequency rate (LTIFR)
+B.	Growing/shrinking markets
+C.	All of the above✅
+D.	Low plant reliability
+
+Which of these is NOT considered one of the 3 KEY features of a typical process?
+A.	Variability
+B.	Interface
+C.	Dependency
+D.	Cost-effectiveness✅
+Response Feedback:	All options except cost-effectiveness are inherent characteristics of any operations process, irrespective of its size, sector or experience. This is because every operation has elements of variability because market demands are not fixed, which will also cause variability in the amount of raw materials that you procure. With regards to dependency, different process stages also depend on each other, since the outputs from one stage serves as the inputs to another stage. Similarly, there are several interface points, since there are instances whereby two or more activities occur simultaneously at the same point. However, cost-effectiveness is NOT a characteristic of ALL operations, else there won't be bankruptcy in organisations. Cost-effectiveness is what all organisations hope to achieve, but not all have it.
+
+Which of these best describes a feature of continuous improvement in operations management?
+A.	All of the above
+B.	Introduction of new and more efficient machines❌
+C.	Ease of implementation✅
+D.	Major changes to operations
+
+Which of these operations improvement terms LEAST represents continuous improvement?
+A.	Business process re-engineering✅
+B.	JIT/LEAN/Six Sigma
+C.	TPM/TQM❌
+D.	5S/6S
+
+At what Sigma level would you say MOST manufacturing processes operate in reality?
+A.	6 Sigma❌
+B.	3 Sigma✅
+C.	5 Sigma
+D.	4 Sigma
+

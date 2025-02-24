@@ -1,0 +1,682 @@
+{
+    "questions": [
+        {
+            "id": "Kahoot_20240927_1",
+            "question": "Which of the following processes best describes operations management?",
+            "options": {
+              "A": "Translational",
+              "B": "Transformation",
+              "C": "Transaction",
+              "D": "Transition"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20240927_2",
+            "question": "Which of these operations management parameters is NOT an efficiency parameter?",
+            "options": {
+              "A": "% raw material turnover",
+              "B": "% spare parts turnover",
+              "C": "Plant reliability",
+              "D": "Work completion rate"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20240927_3",
+            "question": "Which of these is/are standard input(s) to a typical operations management process?",
+            "options": {
+              "A": "Manpower/people",
+              "B": "Methods",
+              "C": "Materials",
+              "D": "Machines"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20240927_4",
+            "question": "\"A successful engineering spare parts operation\" is an example of a/an ____",
+            "options": {
+              "A": "Objective",
+              "B": "Action plan",
+              "C": "Vision",
+              "D": "Core value"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20240927_5",
+            "question": "\"To become the cheapest engineering spare parts company in Manchester by February of next year\" is a/an",
+            "options": {
+              "A": "Objective",
+              "B": "Action plan",
+              "C": "Vision",
+              "D": "Core value"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241004_1",
+            "question": "To find out what an organisation's strategy is, you should:",
+            "options": {
+              "A": "Read the mission statement",
+              "B": "Look at what the organisation actually does",
+              "C": "Read the strategic plan",
+              "D": "Ask the CEO"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241004_2",
+            "question": "Which of the following statements is NOT true when describing a successful strategy?",
+            "options": {
+              "A": "It provides some property that is unique or distinctive",
+              "B": "It provides the means for renewing competitive advantage",
+              "C": "It addresses changes in the external environment",
+              "D": "It guarantees long term survival"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241004_3",
+            "question": "In the context of strategic management, which of the following BEST describes resources:",
+            "options": {
+              "A": "The knowledge and skills within the organisation",
+              "B": "Something that an organisation owns or controls that cannot be copied",
+              "C": "Something that an organisation owns, controls or accesses semi-permanently",
+              "D": "The physical assets of the organisation"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241004_4",
+            "question": "Knowledge which is difficult to define and codify is known as:",
+            "options": {
+              "A": "Explicit",
+              "B": "Tangible",
+              "C": "Tacit",
+              "D": "Random"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241004_5",
+            "question": "Strategic manager that seeks acceptable profit targets as opposed to as much profit as possible makes ______ decisions",
+            "options": {
+              "A": "Satisfactory",
+              "B": "Satisficing",
+              "C": "Irrational",
+              "D": "Optimal"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241011_1",
+            "question": "Select the operations process configuration most likely to have the lowest overall reliability:",
+            "options": {
+              "A": "Series configuration",
+              "B": "Parallel configuration",
+              "C": "Series + parallel configuration",
+              "D": "N out of M redundant configuration"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241011_2",
+            "question": "Select the operations process that will offer the highest quality of products",
+            "options": {
+              "A": "Continuous operation",
+              "B": "Mass production",
+              "C": "Jobbing process",
+              "D": "Batch process"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241011_3",
+            "question": "Which of the following operations processes has the greatest potential for automation?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Mass production",
+              "C": "Batch process",
+              "D": "Continuous operation"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241011_4",
+            "question": "Mean time to failure is an operations parameter most applicable to which of the following?",
+            "options": {
+              "A": "ICB missile",
+              "B": "The bullet of an AK47 assault rifle",
+              "C": "The light bulb in your bedroom",
+              "D": "Face mask"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241011_5",
+            "question": "Mean time between failures is an operations parameter most applicable to which of the following?",
+            "options": {
+              "A": "The propulsion system of a ship",
+              "B": "Gear systems of the mobile crane on a construction site",
+              "C": "Aircraft engines",
+              "D": "Nancy Rothwell building heating, ventilation, and air-conditioning unit"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241011_6",
+            "question": "How long do you think it takes Boeing to assemble & test the 737 from a hollow fuselage?",
+            "options": {
+              "A": "36 days",
+              "B": "9 days",
+              "C": "28 days",
+              "D": "48 days"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241011_7",
+            "question": "Which of the following parameters will most likely increase operations reliability?",
+            "options": {
+              "A": "System redundancy",
+              "B": "Series systems",
+              "C": "High system downtime",
+              "D": "Low system maintainability"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241011_8",
+            "question": "Which of these operations processes will offer the BEST combination of high throughput and low cost of operation?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Continuous process",
+              "C": "Mass production",
+              "D": "Batch process"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241011_9",
+            "question": "Which of these operations processes will offer the BEST combination of high reliability but low throughput?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Continuous process",
+              "C": "Mass production",
+              "D": "Batch process"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241011_10",
+            "question": "Which of these operations processes is most likely to have the highest failure rate?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Continuous process",
+              "C": "Mass production",
+              "D": "Batch process"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241018_1",
+            "question": "Which of these are reasons for continuous improvement in operations?",
+            "options": {
+              "A": "Growing markets",
+              "B": "High lost time injuries frequency rates (LTIFR)",
+              "C": "Low plant reliability",
+              "D": "Shrinking markets"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241018_2",
+            "question": "Which of these is NOT considered one of the 3 KEY features of every operations process?",
+            "options": {
+              "A": "Variability",
+              "B": "Dependency",
+              "C": "Interface",
+              "D": "Cost-effectiveness"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241018_3",
+            "question": "Which of these best describes a feature of continuous improvement in operations management?",
+            "options": {
+              "A": "Major changes to operations",
+              "B": "Large scale introduction of new and more efficient machines",
+              "C": "Ease of implementation",
+              "D": "Business process re-engineering"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241018_4",
+            "question": "Which of these operations improvement terms is LEAST associated with continuous improvement in operations management?",
+            "options": {
+              "A": "Business process re-engineering (BPR)",
+              "B": "JIT/LEAN/Six Sigma",
+              "C": "5S/6S",
+              "D": "TPM/TQM"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241018_5",
+            "question": "At what Sigma level would you say MOST engineering processes operate in reality?",
+            "options": {
+              "A": "3 Sigma",
+              "B": "4 Sigma",
+              "C": "5 Sigma",
+              "D": "6 Sigma"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241018_6",
+            "question": "Which of these terms best describes the image shown?",
+            "options": {
+              "A": "Event tree",
+              "B": "Failure mode and effects analysis",
+              "C": "Fault tree analysis",
+              "D": "Bowtie analysis"
+            },
+            "answer": "D",
+            "image": "Kahoot_20241018_6.png"
+          },
+          {
+            "id": "Kahoot_20241018_7",
+            "question": "Which TWO of these risk management techniques are often combined in Bowtie analysis?",
+            "options": {
+              "A": "Fault tree analysis",
+              "B": "Event tree analysis",
+              "C": "Fishbone diagram",
+              "D": "Reliability block diagram"
+            },
+            "answer": "AB"
+          },
+          {
+            "id": "Kahoot_20241018_8",
+            "question": "Which of these risk management techniques can be used for both engineering design appraisals and failure investigations?",
+            "options": {
+              "A": "Reliability block diagrams",
+              "B": "Fault tree analysis",
+              "C": "Event tree analysis",
+              "D": "Failure mode & effect analysis"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241018_9",
+            "question": "Which of these risk management techniques is based on deductive logic?",
+            "options": {
+              "A": "Event tree analysis",
+              "B": "Fault tree analysis",
+              "C": "Reliability block diagram",
+              "D": "Fishbone diagram"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241018_10",
+            "question": "Which of these risk management techniques is based on inductive logic?",
+            "options": {
+              "A": "Event tree analysis",
+              "B": "Fault tree analysis",
+              "C": "Reliability block diagram",
+              "D": "Fishbone diagram"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241025_1_NotForExam",
+            "question": "In discrete event simulation, which function creates different data introduced to the simulation model?",
+            "options": {
+              "A": "Random number generator",
+              "B": "Time slicer",
+              "C": "Simulation executive",
+              "D": "Queuing function"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241025_2_NotForExam",
+            "question": "Digital twinning can be used to manage which of these industrial operations?",
+            "options": {
+              "A": "Traffic flow",
+              "B": "Energy consumption",
+              "C": "Emergency response",
+              "D": "Manufacturing throughput"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241025_3_NotForExam",
+            "question": "The process by which you digitally represent a physical entity in a virtual environment is known as:",
+            "options": {
+              "A": "Digital twinning",
+              "B": "Fast Fourier transformation",
+              "C": "Time slicing",
+              "D": "None of the above"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241025_4_NotForExam",
+            "question": "Which of these simulation techniques is relevant to industrial operations?",
+            "options": {
+              "A": "Finite element modelling",
+              "B": "Agent based modelling",
+              "C": "Discrete events simulation",
+              "D": "None of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241025_5_NotForExam",
+            "question": "In discrete event simulation, which function controls the time and execution of discrete events?",
+            "options": {
+              "A": "Single server queue",
+              "B": "Results and statistics",
+              "C": "Multiple server queue",
+              "D": "Simulation executive"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241025_6_NotForExam",
+            "question": "Which of these 'time representations' is not a standard in discrete event simulation?",
+            "options": {
+              "A": "Residence time",
+              "B": "Waiting time",
+              "C": "Service time",
+              "D": "Activity time"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_1",
+            "question": "Which of these is NOT an industry market type?",
+            "options": {
+              "A": "Fragmented",
+              "B": "Emerging",
+              "C": "Conglomerate",
+              "D": "Mature"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kaoot_20241213_2",
+            "question": "Which of the following operations management parameters is/are MOST SUITABLE for forecasting?",
+            "options": {
+              "A": "Customer satisfaction",
+              "B": "Customer complaints",
+              "C": "Sales volume",
+              "D": "All of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_3",
+            "question": "If this is materials flow for a product, what is the main concern from a CIRCULAR MANUFACTURING OPERATIONS viewpoint?",
+            "options": {
+              "A": "Using too much raw materials",
+              "B": "Sending too much waste to landfill",
+              "C": "Consuming too much energy in production",
+              "D": "The need to achieve more reuse"
+            },
+            "answer": "D",
+            "image": "Kaoot_20241213_3.png"
+          },
+          {
+            "id": "Kaoot_20241213_4",
+            "question": "The UNRELIABILITY of the system shown in the figure below is:",
+            "options": {
+              "A": "38%",
+              "B": "53.8%",
+              "C": "52%",
+              "D": "48%"
+            },
+            "answer": "C",
+            "image": "Kaoot_20241213_4.png"
+          },
+          {
+            "id": "Kaoot_20241213_5",
+            "question": "In the linear model of production, the 'TAKE' stage means to:",
+            "options": {
+              "A": "Taking materials from finite resources",
+              "B": "Taking waste to landfills",
+              "C": "Taking products to consumers",
+              "D": "Taking back old products by manufacturers"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_6",
+            "question": "Making aluminium cases for laptops from RECYCLED drinks cans:",
+            "options": {
+              "A": "Is a circular product cycle of the aluminium casing",
+              "B": "Increases the Co2 emissions to make the aluminium casing",
+              "C": "Lowers the embodied energy to the aluminium casing",
+              "D": "Increases the embodied energy of the aluminium casing"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kaoot_20241213_7",
+            "question": "Using COAL ASH as CEMENT constituent for use in CONSTRUCTION activities is an example of which circular economy concept?",
+            "options": {
+              "A": "Closing the loop",
+              "B": "3Rs paradigm",
+              "C": "Design for longevity",
+              "D": "Industrial symbiosis"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_8",
+            "question": "In circular value creation, transforming old cotton-based cloth to fibrefill for furniture & then to insulation material is",
+            "options": {
+              "A": "Power of Easier-to-separate Inputs Designs",
+              "B": "Power of the Inner Circle",
+              "C": "Power of Cascaded Use of the Product",
+              "D": "Power of Circling Longer"
+            },
+            "answer": "C"
+          }, 
+          {
+            "id": "Kaoot_20241213_9",
+            "question": "The transition to more Circular Manufacturing Operations requires all of the following EXCEPT:",
+            "options": {
+              "A": "Product redesign to facilitate circularity",
+              "B": "Shift towards reliance on conventional materials such as steel & aluminium",
+              "C": "Business model innovation",
+              "D": "Commitment and collaboration across the whole supply chain"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kaoot_20241213_10",
+            "question": "Incinerating municipal solid waste as an alternative to disposal in landfills is an EXAMPLE of which WASTE mgt strategy",
+            "options": {
+              "A": "Recovery",
+              "B": "Re-use",
+              "C": "Recycling",
+              "D": "Disposal"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_11",
+            "question": "Sustainable development meets the needs of today without compromising the ability of _____ to meet theirs?",
+            "options": {
+              "A": "Current generation",
+              "B": "High growth economies",
+              "C": "Future generation",
+              "D": "Developing economies"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kaoot_20241213_12",
+            "question": "Which of these operations processes is MOST likely to offer the LOWEST variety?",
+            "options": {
+              "A": "Project",
+              "B": "Jobbing",
+              "C": "Batch",
+              "D": "Continuous production"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_13",
+            "question": "Which of these is NOT an efficiency parameter in operations management?",
+            "options": {
+              "A": "Cycle time",
+              "B": "Throughput",
+              "C": "Availability",
+              "D": "Reliability"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_14",
+            "question": "Which of the following processes BEST describes operations management?",
+            "options": {
+              "A": "Translational",
+              "B": "Transformational",
+              "C": "Transactional",
+              "D": "Transnational"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kaoot_20241213_15",
+            "question": "Which ONE of these operations process configurations is likely to have the LOWEST reliability?",
+            "options": {
+              "A": "Series configuration",
+              "B": "Parallel configuration",
+              "C": "Combined series and parallel configuration",
+              "D": "N out of M redundant configuration"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_16",
+            "question": "Mean time between failures is an operations parameter NOT applicable to which of the following?",
+            "options": {
+              "A": "Mancunian bridge",
+              "B": "The gearbox of a Bugatti Veyron sports car",
+              "C": "Aircraft engines",
+              "D": "The battery of your Smart phone"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_17",
+            "question": "Which ONE of these is NOT a feature of every operations process?",
+            "options": {
+              "A": "Variability",
+              "B": "Dependency",
+              "C": "Interface",
+              "D": "Cost-effectiveness"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_18",
+            "question": "Which of these statement(s) is/are TRUE about process availability in operations management?",
+            "options": {
+              "A": "Worsens when reliability is fixed & maintainability worsens",
+              "B": "Improves with improved maintainability but fixed reliability",
+              "C": "Improves with improved reliability but fixed maintainability",
+              "D": "All of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_19",
+            "question": "What are the 4 stages of product life cycle in operations management?",
+            "options": {
+              "A": "Introduction, growth, maturity & decline",
+              "B": "Design, growth, maturity & disposal",
+              "C": "Design, installation, decommissioning & disposal",
+              "D": "Introduction, growth, maturity & decommissioning"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_20",
+            "question": "What intellectual property protection is BEST for a new product with distinctive visual appeal?",
+            "options": {
+              "A": "Patent",
+              "B": "Trade Mark",
+              "C": "Copyright",
+              "D": "Design Registration"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_21",
+            "question": "Which of these is/are VALID inventory types in operations management?",
+            "options": {
+              "A": "Finished goods",
+              "B": "Pipeline",
+              "C": "Cycle",
+              "D": "All of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_22",
+            "question": "Which of the following is a function of DOWNWARD communication in operations?",
+            "options": {
+              "A": "Provide work instructions to subordinates",
+              "B": "Reporting production issues to management",
+              "C": "Presenting a draft budget report to the Board of Directors",
+              "D": "None of the above"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_23",
+            "question": "Which of the following operation systems is the LEAST resilient?",
+            "options": {
+              "A": "A",
+              "B": "B",
+              "C": "C",
+              "D": "D"
+            },
+            "answer": "D",
+            "image": "Kaoot_20241213_23.png"
+          },
+          {
+            "id": "Kaoot_20241213_24",
+            "question": "Which of the following is a TRUE minimum cut set?",
+            "options": {
+              "A": "21",
+              "B": "24",
+              "C": "45",
+              "D": "35"
+            },
+            "answer": "C",
+            "image": "Kaoot_20241213_24.png"
+          },
+          {
+            "id": "Kaoot_20241213_25_NotForExam",
+            "question": "Which of these historic engineering operations disasters was the MOST devastating?",
+            "options": {
+              "A": "Concorde (Air France Flight 4590) Air Disaster",
+              "B": "Piper Alpha Disaster",
+              "C": "Bhopal Disaster",
+              "D": "Grenfell Tower Disaster"
+            },
+            "answer": "C"
+          }
+    
+                    
+    ]
+}

@@ -1,0 +1,420 @@
+{
+  "questions": [
+    {
+      "id": "Mock_Part1_1",
+      "question": "In the context of the case study provided, the statement 'The following sizes are manufactured M6 M8 M10 M12 M14 M16 M18 M20 and M25' is most associated with which stage within Figure OM?",
+      "options": {
+        "A": "W",
+        "B": "X",
+        "C": "Y",
+        "D": "Z"
+      },
+      "answer": "A",
+      "image": "Mock_Part1.png"
+    },
+    {
+      "id": "Mock_Part1_2",
+      "question": "In the context of the case study provided, the statement 'employs 178 people' is most associated with which stage within Figure OM?",
+      "options": {
+        "A": "Z",
+        "B": "U",
+        "C": "V",
+        "D": "W"
+      },
+      "answer": "C",
+      "image": "Mock_Part1.png"
+    },
+    {
+      "id": "Mock_Part1_3",
+      "question": "In the context of the case study provided, the statement 'turning fasteners using a lathe' is most associated with which stage within Figure OM?",
+      "options": {
+        "A": "Z",
+        "B": "V",
+        "C": "U",
+        "D": "W"
+      },
+      "answer": "A",
+      "image": "Mock_Part1.png"
+    },
+    {
+      "id": "Mock_Part1_4",
+      "question": "In the context of the case study provided, the statement 'with an average of 7 days delivery lead time from order request to reception of stock at the warehouse of Granby Limited supply polymers' is most associated with which stage within Figure OM?",
+      "options": {
+        "A": "U",
+        "B": "V",
+        "C": "W",
+        "D": "Y"
+      },
+      "answer": "A",
+      "image": "Mock_Part1.png"
+    },
+    {
+      "id": "Mock_Part2_1",
+      "question": "A combination of related tasks that enable the transformation of inputs to outputs can be referred to as:",
+      "options": {
+        "A": "Process",
+        "B": "Method",
+        "C": "Strategy",
+        "D": "Function",
+        "E": "Mission"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Mock_Part2_2",
+      "question": "A condition that must occur in order for a process to be performed is known as:",
+      "options": {
+        "A": "Decision",
+        "B": "Activity",
+        "C": "Input",
+        "D": "Event",
+        "E": "Task"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Mock_Part2_3",
+      "question": "The rate at which an operation converts investment into returns can be referred to as:",
+      "options": {
+        "A": "Downtime",
+        "B": "Turnover",
+        "C": "Uptime",
+        "D": "Throughput",
+        "E": "Cycle time"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "Mock_Part2_4",
+      "question": "The ease with which a repair or replace action can be completed under specified conditions of time, quality and cost can be estimated through:",
+      "options": {
+        "A": "Reliability",
+        "B": "Repair rate",
+        "C": "Maintainability",
+        "D": "Availability",
+        "E": "Mean time between failures"
+      },
+      "answer": "BC"
+    },
+    {
+      "id": "Mock_Part2_5",
+      "question": "Which of these can be used to estimate the reliability of an operations process?",
+      "options": {
+        "A": "Mean time to failure",
+        "B": "Mean time between failures",
+        "C": "Turnover rate",
+        "D": "Repair rate",
+        "E": "Failure rate"
+      },
+      "answer": "ABE"
+    },
+    {
+      "id": "Mock_Part2_6",
+      "question": "An operations process that is most ideal for handling moderate volume and moderate variety can be referred to as:",
+      "options": {
+        "A": "Continuous process",
+        "B": "Batch process",
+        "C": "Project process",
+        "D": "One-off process",
+        "E": "Jobbing process"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "Mock_Part2_7",
+      "question": "Identify the effectiveness parameter(s) from the following:",
+      "options": {
+        "A": "Customer satisfaction",
+        "B": "Response time",
+        "C": "Availability",
+        "D": "Reliability",
+        "E": "Throughput"
+      },
+      "answer": "AD"
+    },
+    {
+      "id": "Mock_Part2_8",
+      "question": "Identify the efficiency parameter(s) from the following:",
+      "options": {
+        "A": "Throughput",
+        "B": "Customer satisfaction",
+        "C": "Availability",
+        "D": "Reliability",
+        "E": "Response time"
+      },
+      "answer": "ACE"
+    },
+    {
+      "id": "Mock_Part2_9",
+      "question": "The drive belts of the Pariser building lifts have failed approximately 122 times in the last 25 years (one year = 365 days). The lifts are expected to operate continuously. Estimate the approximate most economic number of spare drive belts required for 18 months of uninterrupted operation of the lifts with a confidence level of 95% (z for 95% confidence level = 1.65).",
+      "options": {
+        "A": "11 drive belts",
+        "B": "15 drive belts",
+        "C": "9 drive belts",
+        "D": "20 drive belts",
+        "E": "27 drive belts"
+      },
+      "answer": "A",
+      "image": "Mock_Part2_Q9.png"
+    },
+    {
+      "id": "Mock_Part2_10",
+      "question": "Which of the following outcomes best describes A in the following Table?",
+      "options": {
+        "A": "Decreases",
+        "B": "Improves",
+        "C": "Constant",
+        "D": "Worsens",
+        "E": "Rises"
+      },
+      "answer": "C",
+      "image": "Mock_Part2_Q10-Q12.png"
+    },
+    {
+      "id": "Mock_Part2_11",
+      "question": "Which of the following outcomes best describes B in the following Table?",
+      "options": {
+        "A": "Decreases",
+        "B": "Constant",
+        "C": "Improves",
+        "D": "Steady",
+        "E": "Worsens"
+      },
+      "answer": "C",
+      "image": "Mock_Part2_Q10-Q12.png"
+    },
+    {
+      "id": "Mock_Part2_12",
+      "question": "Which of the following outcomes best describes C in the following Table?",
+      "options": {
+        "A": "Rises",
+        "B": "Steady",
+        "C": "Worsens",
+        "D": "Constant",
+        "E": "Improves"
+      },
+      "answer": "C",
+      "image": "Mock_Part2_Q10-Q12.png"
+    },
+    {
+      "id": "Mock_Part2_13",
+      "question": "A process reliability test revealed that 12 failures occurred after testing 27 hydraulic systems for 1525 hours. Select the approximate mean-time-between-failures (MTBF) from the following options.",
+      "options": {
+        "A": "1794",
+        "B": "3692",
+        "C": "3431",
+        "D": "2247",
+        "E": "3478"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Mock_Part2_14",
+      "question": "A process reliability test revealed that 12 failures occurred after testing 27 hydraulic systems for 1525 hours. Select the approximate mean-time-to-failures (MTTF) from the following options.",
+      "options": {
+        "A": "525",
+        "B": "1525",
+        "C": "500",
+        "D": "1522",
+        "E": "2215"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "Mock_Part2_15",
+      "question": "Figure Q represents the reliability block diagram of the manufacturing process of engineering design components. If points A and B respectively denote the inlet and outlet of the process, identify the minimum path set(s) from the following options.",
+      "options": {
+        "A": "12467",
+        "B": "56423",
+        "C": "15",
+        "D": "123",
+        "E": "567"
+      },
+      "answer": "ABDE",
+      "image": "Mock_Part2_Q15.png"
+    },
+    {
+      "id": "Mock_Part2_16",
+      "question": "Figure Q represents the reliability block diagram of the manufacturing process of engineering design components. If points A and B respectively denote the inlet and outlet of the process, identify the minimum cut set(s) from the following options.",
+      "options": {
+        "A": "246",
+        "B": "56423",
+        "C": "15",
+        "D": "37",
+        "E": "12467"
+      },
+      "answer": "ABCDE",
+      "image": "Mock_Part2_Q16.png"
+    },
+    {
+      "id": "Mock_Part2_17",
+      "question": "A new 3D printing machine produces parts 2% faster than the previous machine. This is an example of:",
+      "options": {
+        "A": "Technology Push",
+        "B": "Incremental Innovation",
+        "C": "Marketing Innovation",
+        "D": "Radical Innovation",
+        "E": "Environmental Innovation"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "Mock_Part2_18",
+      "question": "CompFast Ltd dismantle new computer products bought from their competitors to investigate how they work. This is a form of:",
+      "options": {
+        "A": "Experimentation",
+        "B": "Radical Innovation",
+        "C": "Networking",
+        "D": "Associating",
+        "E": "Cyclical Innovation"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Mock_Part2_19",
+      "question": "A company that wishes to be quick to enter the market with their new innovation should use which process?",
+      "options": {
+        "A": "Run development tasks in parallel to each other",
+        "B": "Run development tasks in series",
+        "C": "Organise tasks in a Waterfall model",
+        "D": "Organise tasks in an over-the-wall process",
+        "E": "Use a linear model of development"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Mock_Part2_20",
+      "question": "The decommissioning of coal-fired electrical power stations is an example of:",
+      "options": {
+        "A": "Structural change",
+        "B": "Cyclical change",
+        "C": "Intermittent change",
+        "D": "Innovation change",
+        "E": "Economic change"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Mock_Part2_21",
+      "question": "FastFoundation Ltd specify an innovative polymer component, supplied by PlastDuct Ltd to be cast into building foundations laid by FastFoundations Ltd. In the Henderson - Clark model this innovation fits best in which segment?",
+      "options": {
+        "A": "Modular innovation",
+        "B": "Incremental Innovation",
+        "C": "Radical Innovation",
+        "D": "Architectural Innovation",
+        "E": "Polymorphic Innovation"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Mock_Part2_22",
+      "question": "Inventory profile below shows a raw material with a perfectly predictable demand (D = 100 items/week), Lead Time (LT = 3 weeks), and Order Quantity (Q = 400 items/order). To prevent any stock-out occurring, orders should be placed in weeks:",
+      "options": {
+        "A": "2, 6, 10 ... etc.",
+        "B": "1, 5, 9 ... etc.",
+        "C": "0, 1, 2, 3, 4 ... etc.",
+        "D": "3, 7, 11 ... etc.",
+        "E": "0, 4, 8 ... etc."
+      },
+      "answer": "B",
+      "image": "Mock_Part2_Q22.png"
+    },
+    {
+      "id": "Mock_Part2_23",
+      "question": "During summer time, a clothing manufacturer is building a stock of woollen garments to meet the demand when it peaks in winter. This type of stock is better described as:",
+      "options": {
+        "A": "Pipeline inventory",
+        "B": "Cycle inventory",
+        "C": "Buffer (safety) inventory",
+        "D": "De-coupling inventory",
+        "E": "Anticipatory inventory"
+      },
+      "answer": "E"
+    },
+    {
+      "id": "Mock_Part2_24",
+      "question": "Agile supply chain policies are seen to be appropriate for which of the following products?",
+      "options": {
+        "A": "Fashion handbag",
+        "B": "Colgate toothpaste",
+        "C": "Christmas chocolates",
+        "D": "New mobile phones",
+        "E": "Classic shoes"
+      },
+      "answer": "ACD"
+    },
+    {
+      "id": "Mock_Part2_25",
+      "question": "Which of the following features are associated with the 'Lean Supply Chain Management'?",
+      "options": {
+        "A": "Long lead time",
+        "B": "Innovative products",
+        "C": "High utilization",
+        "D": "Min inventory",
+        "E": "Fast response"
+      },
+      "answer": "ACD"
+    },
+    {
+      "id": "Mock_Part2_26",
+      "question": "Which of the following policies help ease/reduce the bullwhip effect in supply chains?",
+      "options": {
+        "A": "Aligning production in all operations to end customer demand",
+        "B": "Having buffer stock to prevent any stock-out occurring",
+        "C": "Mergers in the supply chain",
+        "D": "Keeping more stock in operations",
+        "E": "Better forecasting of future demand"
+      },
+      "answer": "ACE"
+    },
+    {
+      "id": "Mock_Part2_27",
+      "question": "Which one of the following information does flow downstream in supply chains?",
+      "options": {
+        "A": "Purchase Orders (PO)",
+        "B": "Request for Information (RFI)",
+        "C": "Request for Quotation (RFQ)",
+        "D": "Request for Proposal (RFP)",
+        "E": "Quotation"
+      },
+      "answer": "E"
+    },
+    {
+      "id": "Mock_Part2_28",
+      "question": "Which of the following are features of the 'Continuous Review' approach to inventory management?",
+      "options": {
+        "A": "The timing of orders may be irregular",
+        "B": "Triggered by inventory level",
+        "C": "Orders are made at fixed and a regular time intervals",
+        "D": "Triggered by time",
+        "E": "The stock level for the product is reviewed continuously"
+      },
+      "answer": "ABE"
+    },
+    {
+      "id": "Mock_Part2_29",
+      "question": "A raw material with a constant Demand (D = 500 items/year), Ordering Cost (Co = £40/order), and Holding Cost (Ch = £4/item/year). Order Quantity for this product is (Q = 200 items/order). The total cost of the inventory for this product is:",
+      "options": {
+        "A": "£1000/year",
+        "B": "£800/year",
+        "C": "£100/year",
+        "D": "£500/year",
+        "E": "£400/year"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Mock_Part2_30",
+      "question": "Which of the following features are associated with multiple sourcing?",
+      "options": {
+        "A": "Speed and simplicity",
+        "B": "Sourcing standard products",
+        "C": "Long term relations with suppliers",
+        "D": "Competitive markets",
+        "E": "Low switching costs"
+      },
+      "answer": "BDE"
+    }
+  ]
+}
+

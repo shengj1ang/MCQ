@@ -1,0 +1,372 @@
+{
+  "questions": [
+    {
+      "id": "Test1_1",
+      "question": "At what product/service life cycle stage is an organisation most likely to compete with the highest number of substitutes?",
+      "options": {
+        "A": "Introduction",
+        "B": "Growth",
+        "C": "Decline",
+        "D": "Maturity"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Test1_2",
+      "question": "What product/service life cycle stage is often considered the costliest?",
+      "options": {
+        "A": "Decline",
+        "B": "Maturity",
+        "C": "Introduction",
+        "D": "Growth"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test1_3",
+      "question": "Which International Standards Organisation (ISO) series deals with the Quality Management System?",
+      "options": {
+        "A": "ISO 9001",
+        "B": "ISO 9000",
+        "C": "ISO 9002",
+        "D": "ISO 9003"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "Test1_4",
+      "question": "The statement 'A vibrant higher education institution in the North West of England' is an example of:",
+      "options": {
+        "A": "Vision",
+        "B": "Mission",
+        "C": "Strategy",
+        "D": "Objective"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test1_5",
+      "question": "Which of the following activities is least associated with the 'Speculation Phase' of Value Engineering?",
+      "options": {
+        "A": "Detailed development",
+        "B": "Alternatives generation",
+        "C": "Brainstorming",
+        "D": "Alternatives ranking"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test2_1",
+      "question": "A process that handles extremely low-volume and high-variety can be referred to as:",
+      "options": {
+        "A": "Jobbing process",
+        "B": "Mass process",
+        "C": "One-off process",
+        "D": "Batch process"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test2_2",
+      "question": "The fraction of time that a process is unavailable for production can be referred to as:",
+      "options": {
+        "A": "Turnover",
+        "B": "Cycle time",
+        "C": "Downtime",
+        "D": "Throughput"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test2_3",
+      "question": "Which of these is/are LEAST used to measure process reliability in operations management?",
+      "options": {
+        "A": "Mean time to failure",
+        "B": "Mean time between failures",
+        "C": "Repair rate",
+        "D": "Failure rate"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test2_4",
+      "question": "A measure of the number of items that require re-manufacturing can be referred to as:",
+      "options": {
+        "A": "Rework",
+        "B": "Corrective maintenance",
+        "C": "Maintainability",
+        "D": "Repair rate"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test3_1",
+      "question": "A raw material with a constant Demand (D = 500 items/year), Ordering Cost (Co = £40/order), Storage Costs (Cs = £2/item/year), and Working Capital Cost (Cw = £2/item/year). The Economic Order Quantity (EOQ) for this product is:",
+      "options": {
+        "A": "142 items/order",
+        "B": "500 Items/Order",
+        "C": "400 items/order",
+        "D": "200 items/order",
+        "E": "100 items/order"
+      },
+      "answer": "E"
+    },
+    {
+      "id": "Test3_2",
+      "question": "In terms of inventory-related costs, loss when items become old-fashioned or deteriorate by age is better described as:",
+      "options": {
+        "A": "Storage/warehouse costs",
+        "B": "Cost of placing the order",
+        "C": "Obsolescence costs",
+        "D": "Working capital costs",
+        "E": "Price discount costs"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test3_3",
+      "question": "Which of the following are NOT features of the 'Periodic Review' approach to inventory management? (you can select more than one answer)",
+      "options": {
+        "A": "The stock level for the product is reviewed continuously",
+        "B": "Orders are placed to bring the stock up to an adequate level that covers demand between the time this order is being placed and the following order arriving.",
+        "C": "The timing of orders may be irregular",
+        "D": "Orders are made at fixed and a regular time intervals",
+        "E": "Triggered by inventory level"
+      },
+      "answer": "ACE"
+    },
+    {
+      "id": "Test3_4",
+      "question": "All supply chain management strategies share one common and central objective, which is:",
+      "options": {
+        "A": "Supply price competitive products and services to customers",
+        "B": "Respond to all changes and fluctuations in customer demand",
+        "C": "Satisfy customer needs and meet their requirements",
+        "D": "Deliver customer orders very fast",
+        "E": "Supply high quality products to end customers"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test3_5",
+      "question": "Which of the following are NOT features of 'Agile Supply Chain Management'? (you can select more than one answer)",
+      "options": {
+        "A": "Low cost and high utilisation",
+        "B": "Keeping minimum stocks of raw materials",
+        "C": "Associated with long lead times",
+        "D": "Emphasizes responsiveness and flexibility",
+        "E": "Used to manage supply chains of innovative/fashion products"
+      },
+      "answer": "ABC"
+    },
+    {
+      "id": "Test4_1",
+      "question": "_____________ typically deals with the analysis of the different ways by which an operations process can fail.",
+      "options": {
+        "A": "Reliability block diagram",
+        "B": "Reliability centred maintenance",
+        "C": "Total quality management",
+        "D": "Fault tree analysis"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Test4_2",
+      "question": "Which of the following is/are characteristics of business process re-engineering?",
+      "options": {
+        "A": "Process based analysis",
+        "B": "Radical improvement",
+        "C": "Functional analysis",
+        "D": "Training"
+      },
+      "answer": "AB"
+    },
+    {
+      "id": "Test4_3",
+      "question": "_____________ typically deals with the analysis of the different ways by which an operations process can succeed.",
+      "options": {
+        "A": "Reliability block diagram",
+        "B": "Minimal cut sets",
+        "C": "Reliability availability and maintainability",
+        "D": "Fault tree analysis"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test4_4",
+      "question": "According to the Operations System model, techniques such as total productive maintenance and total quality management would be most associated with which order of change?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Test5_1",
+      "question": "The term die penetrant tests on at least 85% of produced load cells is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Quality assurance",
+        "B": "Effectiveness",
+        "C": "Efficiency",
+        "D": "Quality control"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Test5_2",
+      "question": "The following statements are most related to which aspect of the operations process model?\n- 100% calibration of all CNC machines after every shift\n- Employment of machinists with at least 6 years’ experience in high precision machining especially with military workshops",
+      "options": {
+        "A": "Quality control",
+        "B": "Reliability",
+        "C": "Effectiveness",
+        "D": "Quality assurance"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Test5_3",
+      "question": "The term wrought iron is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Input",
+        "B": "Output",
+        "C": "Materials",
+        "D": "Operations strategy"
+      },
+      "answer": "AC"
+    },
+    {
+      "id": "Test5_4",
+      "question": "The following statements are most related to which aspects of the operations system model?\n- COVID-19 imposed travel and operational restrictions\n- Legal actions\n- Massive strike actions across its manufacturing sites globally",
+      "options": {
+        "A": "Third order change",
+        "B": "PESTEL",
+        "C": "Legal",
+        "D": "Economic"
+      },
+      "answer": "ABCD"
+    },
+    {
+      "id": "Test5_5",
+      "question": "The statement 'looseness of lathe machine tool post at high speed and this is usually rectified by changing the fixation bolts at the leading edge before the commencement of the next batch of products' is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Input",
+        "B": "Machine",
+        "C": "First order change",
+        "D": "Materials"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test5_6",
+      "question": "The term centralised business solution is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Enterprise resource planning",
+        "B": "Technical database",
+        "C": "Reporting system",
+        "D": "Performance analysis"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test5_7",
+      "question": "The term FRP is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Materials",
+        "B": "Methods",
+        "C": "Transformation",
+        "D": "Reliability"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test5_8",
+      "question": "Drilling, shaping, boring, grinding and milling are terms that are most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Transformation",
+        "B": "Output",
+        "C": "Reliability",
+        "D": "Continuous improvement"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test5_9",
+      "question": "The term advanced high strength steels is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Input",
+        "B": "Output",
+        "C": "Quality assurance (QA)",
+        "D": "Quality control (QC)"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "Test5_10",
+      "question": "The statement decision was made to locally source alternative raw materials is most related to which aspect of the operations system model?",
+      "options": {
+        "A": "Improvement",
+        "B": "Input",
+        "C": "Transformation",
+        "D": "Turnover"
+      },
+      "answer": "AB"
+    },
+    {
+      "id": "Test6_1",
+      "question": "Which of these is a reason for continuous improvement in operations?",
+      "options": {
+        "A": "High lost time injuries frequency rate (LTIFR)",
+        "B": "Growing/shrinking markets",
+        "C": "All of the above",
+        "D": "Low plant reliability"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test6_2",
+      "question": "Which of these is NOT considered one of the 3 KEY features of a typical process?",
+      "options": {
+        "A": "Variability",
+        "B": "Interface",
+        "C": "Dependency",
+        "D": "Cost-effectiveness"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "Test6_3",
+      "question": "Which of these best describes a feature of continuous improvement in operations management?",
+      "options": {
+        "A": "All of the above",
+        "B": "Introduction of new and more efficient machines",
+        "C": "Ease of implementation",
+        "D": "Major changes to operations"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "Test6_4",
+      "question": "Which of these operations improvement terms LEAST represents continuous improvement?",
+      "options": {
+        "A": "Business process re-engineering",
+        "B": "JIT/LEAN/Six Sigma",
+        "C": "TPM/TQM",
+        "D": "5S/6S"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "Test6_5",
+      "question": "At what Sigma level would you say MOST manufacturing processes operate in reality?",
+      "options": {
+        "A": "6 Sigma",
+        "B": "3 Sigma",
+        "C": "5 Sigma",
+        "D": "4 Sigma"
+      },
+      "answer": "B"
+    }
+  ]
+}

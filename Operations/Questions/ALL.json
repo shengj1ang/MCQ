@@ -1,0 +1,1465 @@
+{
+    "questions": [
+        {
+            "id": "Kahoot_20240927_1",
+            "question": "Which of the following processes best describes operations management?",
+            "options": {
+              "A": "Translational",
+              "B": "Transformation",
+              "C": "Transaction",
+              "D": "Transition"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20240927_2",
+            "question": "Which of these operations management parameters is NOT an efficiency parameter?",
+            "options": {
+              "A": "% raw material turnover",
+              "B": "% spare parts turnover",
+              "C": "Plant reliability",
+              "D": "Work completion rate"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20240927_3",
+            "question": "Which of these is/are standard input(s) to a typical operations management process?",
+            "options": {
+              "A": "Manpower/people",
+              "B": "Methods",
+              "C": "Materials",
+              "D": "Machines"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20240927_4",
+            "question": "\"A successful engineering spare parts operation\" is an example of a/an ____",
+            "options": {
+              "A": "Objective",
+              "B": "Action plan",
+              "C": "Vision",
+              "D": "Core value"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20240927_5",
+            "question": "\"To become the cheapest engineering spare parts company in Manchester by February of next year\" is a/an",
+            "options": {
+              "A": "Objective",
+              "B": "Action plan",
+              "C": "Vision",
+              "D": "Core value"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241004_1",
+            "question": "To find out what an organisation's strategy is, you should:",
+            "options": {
+              "A": "Read the mission statement",
+              "B": "Look at what the organisation actually does",
+              "C": "Read the strategic plan",
+              "D": "Ask the CEO"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241004_2",
+            "question": "Which of the following statements is NOT true when describing a successful strategy?",
+            "options": {
+              "A": "It provides some property that is unique or distinctive",
+              "B": "It provides the means for renewing competitive advantage",
+              "C": "It addresses changes in the external environment",
+              "D": "It guarantees long term survival"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241004_3",
+            "question": "In the context of strategic management, which of the following BEST describes resources:",
+            "options": {
+              "A": "The knowledge and skills within the organisation",
+              "B": "Something that an organisation owns or controls that cannot be copied",
+              "C": "Something that an organisation owns, controls or accesses semi-permanently",
+              "D": "The physical assets of the organisation"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241004_4",
+            "question": "Knowledge which is difficult to define and codify is known as:",
+            "options": {
+              "A": "Explicit",
+              "B": "Tangible",
+              "C": "Tacit",
+              "D": "Random"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241004_5",
+            "question": "Strategic manager that seeks acceptable profit targets as opposed to as much profit as possible makes ______ decisions",
+            "options": {
+              "A": "Satisfactory",
+              "B": "Satisficing",
+              "C": "Irrational",
+              "D": "Optimal"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241011_1",
+            "question": "Select the operations process configuration most likely to have the lowest overall reliability:",
+            "options": {
+              "A": "Series configuration",
+              "B": "Parallel configuration",
+              "C": "Series + parallel configuration",
+              "D": "N out of M redundant configuration"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241011_2",
+            "question": "Select the operations process that will offer the highest quality of products",
+            "options": {
+              "A": "Continuous operation",
+              "B": "Mass production",
+              "C": "Jobbing process",
+              "D": "Batch process"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241011_3",
+            "question": "Which of the following operations processes has the greatest potential for automation?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Mass production",
+              "C": "Batch process",
+              "D": "Continuous operation"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241011_4",
+            "question": "Mean time to failure is an operations parameter most applicable to which of the following?",
+            "options": {
+              "A": "ICB missile",
+              "B": "The bullet of an AK47 assault rifle",
+              "C": "The light bulb in your bedroom",
+              "D": "Face mask"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241011_5",
+            "question": "Mean time between failures is an operations parameter most applicable to which of the following?",
+            "options": {
+              "A": "The propulsion system of a ship",
+              "B": "Gear systems of the mobile crane on a construction site",
+              "C": "Aircraft engines",
+              "D": "Nancy Rothwell building heating, ventilation, and air-conditioning unit"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241011_6",
+            "question": "How long do you think it takes Boeing to assemble & test the 737 from a hollow fuselage?",
+            "options": {
+              "A": "36 days",
+              "B": "9 days",
+              "C": "28 days",
+              "D": "48 days"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241011_7",
+            "question": "Which of the following parameters will most likely increase operations reliability?",
+            "options": {
+              "A": "System redundancy",
+              "B": "Series systems",
+              "C": "High system downtime",
+              "D": "Low system maintainability"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241011_8",
+            "question": "Which of these operations processes will offer the BEST combination of high throughput and low cost of operation?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Continuous process",
+              "C": "Mass production",
+              "D": "Batch process"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241011_9",
+            "question": "Which of these operations processes will offer the BEST combination of high reliability but low throughput?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Continuous process",
+              "C": "Mass production",
+              "D": "Batch process"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241011_10",
+            "question": "Which of these operations processes is most likely to have the highest failure rate?",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Continuous process",
+              "C": "Mass production",
+              "D": "Batch process"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241018_1",
+            "question": "Which of these are reasons for continuous improvement in operations?",
+            "options": {
+              "A": "Growing markets",
+              "B": "High lost time injuries frequency rates (LTIFR)",
+              "C": "Low plant reliability",
+              "D": "Shrinking markets"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241018_2",
+            "question": "Which of these is NOT considered one of the 3 KEY features of every operations process?",
+            "options": {
+              "A": "Variability",
+              "B": "Dependency",
+              "C": "Interface",
+              "D": "Cost-effectiveness"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241018_3",
+            "question": "Which of these best describes a feature of continuous improvement in operations management?",
+            "options": {
+              "A": "Major changes to operations",
+              "B": "Large scale introduction of new and more efficient machines",
+              "C": "Ease of implementation",
+              "D": "Business process re-engineering"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kahoot_20241018_4",
+            "question": "Which of these operations improvement terms is LEAST associated with continuous improvement in operations management?",
+            "options": {
+              "A": "Business process re-engineering (BPR)",
+              "B": "JIT/LEAN/Six Sigma",
+              "C": "5S/6S",
+              "D": "TPM/TQM"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241018_5",
+            "question": "At what Sigma level would you say MOST engineering processes operate in reality?",
+            "options": {
+              "A": "3 Sigma",
+              "B": "4 Sigma",
+              "C": "5 Sigma",
+              "D": "6 Sigma"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241018_6",
+            "question": "Which of these terms best describes the image shown?",
+            "options": {
+              "A": "Event tree",
+              "B": "Failure mode and effects analysis",
+              "C": "Fault tree analysis",
+              "D": "Bowtie analysis"
+            },
+            "answer": "D",
+            "image": "Kahoot_20241018_6.png"
+          },
+          {
+            "id": "Kahoot_20241018_7",
+            "question": "Which TWO of these risk management techniques are often combined in Bowtie analysis?",
+            "options": {
+              "A": "Fault tree analysis",
+              "B": "Event tree analysis",
+              "C": "Fishbone diagram",
+              "D": "Reliability block diagram"
+            },
+            "answer": "AB"
+          },
+          {
+            "id": "Kahoot_20241018_8",
+            "question": "Which of these risk management techniques can be used for both engineering design appraisals and failure investigations?",
+            "options": {
+              "A": "Reliability block diagrams",
+              "B": "Fault tree analysis",
+              "C": "Event tree analysis",
+              "D": "Failure mode & effect analysis"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241018_9",
+            "question": "Which of these risk management techniques is based on deductive logic?",
+            "options": {
+              "A": "Event tree analysis",
+              "B": "Fault tree analysis",
+              "C": "Reliability block diagram",
+              "D": "Fishbone diagram"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kahoot_20241018_10",
+            "question": "Which of these risk management techniques is based on inductive logic?",
+            "options": {
+              "A": "Event tree analysis",
+              "B": "Fault tree analysis",
+              "C": "Reliability block diagram",
+              "D": "Fishbone diagram"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241025_1_NotForExam",
+            "question": "In discrete event simulation, which function creates different data introduced to the simulation model?",
+            "options": {
+              "A": "Random number generator",
+              "B": "Time slicer",
+              "C": "Simulation executive",
+              "D": "Queuing function"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241025_2_NotForExam",
+            "question": "Digital twinning can be used to manage which of these industrial operations?",
+            "options": {
+              "A": "Traffic flow",
+              "B": "Energy consumption",
+              "C": "Emergency response",
+              "D": "Manufacturing throughput"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Kahoot_20241025_3_NotForExam",
+            "question": "The process by which you digitally represent a physical entity in a virtual environment is known as:",
+            "options": {
+              "A": "Digital twinning",
+              "B": "Fast Fourier transformation",
+              "C": "Time slicing",
+              "D": "None of the above"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kahoot_20241025_4_NotForExam",
+            "question": "Which of these simulation techniques is relevant to industrial operations?",
+            "options": {
+              "A": "Finite element modelling",
+              "B": "Agent based modelling",
+              "C": "Discrete events simulation",
+              "D": "None of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241025_5_NotForExam",
+            "question": "In discrete event simulation, which function controls the time and execution of discrete events?",
+            "options": {
+              "A": "Single server queue",
+              "B": "Results and statistics",
+              "C": "Multiple server queue",
+              "D": "Simulation executive"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kahoot_20241025_6_NotForExam",
+            "question": "Which of these 'time representations' is not a standard in discrete event simulation?",
+            "options": {
+              "A": "Residence time",
+              "B": "Waiting time",
+              "C": "Service time",
+              "D": "Activity time"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_1",
+            "question": "Which of these is NOT an industry market type?",
+            "options": {
+              "A": "Fragmented",
+              "B": "Emerging",
+              "C": "Conglomerate",
+              "D": "Mature"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kaoot_20241213_2",
+            "question": "Which of the following operations management parameters is/are MOST SUITABLE for forecasting?",
+            "options": {
+              "A": "Customer satisfaction",
+              "B": "Customer complaints",
+              "C": "Sales volume",
+              "D": "All of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_3",
+            "question": "If this is materials flow for a product, what is the main concern from a CIRCULAR MANUFACTURING OPERATIONS viewpoint?",
+            "options": {
+              "A": "Using too much raw materials",
+              "B": "Sending too much waste to landfill",
+              "C": "Consuming too much energy in production",
+              "D": "The need to achieve more reuse"
+            },
+            "answer": "D",
+            "image": "Kaoot_20241213_3.png"
+          },
+          {
+            "id": "Kaoot_20241213_4",
+            "question": "The UNRELIABILITY of the system shown in the figure below is:",
+            "options": {
+              "A": "38%",
+              "B": "53.8%",
+              "C": "52%",
+              "D": "48%"
+            },
+            "answer": "C",
+            "image": "Kaoot_20241213_4.png"
+          },
+          {
+            "id": "Kaoot_20241213_5",
+            "question": "In the linear model of production, the 'TAKE' stage means to:",
+            "options": {
+              "A": "Taking materials from finite resources",
+              "B": "Taking waste to landfills",
+              "C": "Taking products to consumers",
+              "D": "Taking back old products by manufacturers"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_6",
+            "question": "Making aluminium cases for laptops from RECYCLED drinks cans:",
+            "options": {
+              "A": "Is a circular product cycle of the aluminium casing",
+              "B": "Increases the Co2 emissions to make the aluminium casing",
+              "C": "Lowers the embodied energy to the aluminium casing",
+              "D": "Increases the embodied energy of the aluminium casing"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kaoot_20241213_7",
+            "question": "Using COAL ASH as CEMENT constituent for use in CONSTRUCTION activities is an example of which circular economy concept?",
+            "options": {
+              "A": "Closing the loop",
+              "B": "3Rs paradigm",
+              "C": "Design for longevity",
+              "D": "Industrial symbiosis"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_8",
+            "question": "In circular value creation, transforming old cotton-based cloth to fibrefill for furniture & then to insulation material is",
+            "options": {
+              "A": "Power of Easier-to-separate Inputs Designs",
+              "B": "Power of the Inner Circle",
+              "C": "Power of Cascaded Use of the Product",
+              "D": "Power of Circling Longer"
+            },
+            "answer": "C"
+          }, 
+          {
+            "id": "Kaoot_20241213_9",
+            "question": "The transition to more Circular Manufacturing Operations requires all of the following EXCEPT:",
+            "options": {
+              "A": "Product redesign to facilitate circularity",
+              "B": "Shift towards reliance on conventional materials such as steel & aluminium",
+              "C": "Business model innovation",
+              "D": "Commitment and collaboration across the whole supply chain"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kaoot_20241213_10",
+            "question": "Incinerating municipal solid waste as an alternative to disposal in landfills is an EXAMPLE of which WASTE mgt strategy",
+            "options": {
+              "A": "Recovery",
+              "B": "Re-use",
+              "C": "Recycling",
+              "D": "Disposal"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_11",
+            "question": "Sustainable development meets the needs of today without compromising the ability of _____ to meet theirs?",
+            "options": {
+              "A": "Current generation",
+              "B": "High growth economies",
+              "C": "Future generation",
+              "D": "Developing economies"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Kaoot_20241213_12",
+            "question": "Which of these operations processes is MOST likely to offer the LOWEST variety?",
+            "options": {
+              "A": "Project",
+              "B": "Jobbing",
+              "C": "Batch",
+              "D": "Continuous production"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_13",
+            "question": "Which of these is NOT an efficiency parameter in operations management?",
+            "options": {
+              "A": "Cycle time",
+              "B": "Throughput",
+              "C": "Availability",
+              "D": "Reliability"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_14",
+            "question": "Which of the following processes BEST describes operations management?",
+            "options": {
+              "A": "Translational",
+              "B": "Transformational",
+              "C": "Transactional",
+              "D": "Transnational"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Kaoot_20241213_15",
+            "question": "Which ONE of these operations process configurations is likely to have the LOWEST reliability?",
+            "options": {
+              "A": "Series configuration",
+              "B": "Parallel configuration",
+              "C": "Combined series and parallel configuration",
+              "D": "N out of M redundant configuration"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_16",
+            "question": "Mean time between failures is an operations parameter NOT applicable to which of the following?",
+            "options": {
+              "A": "Mancunian bridge",
+              "B": "The gearbox of a Bugatti Veyron sports car",
+              "C": "Aircraft engines",
+              "D": "The battery of your Smart phone"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_17",
+            "question": "Which ONE of these is NOT a feature of every operations process?",
+            "options": {
+              "A": "Variability",
+              "B": "Dependency",
+              "C": "Interface",
+              "D": "Cost-effectiveness"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_18",
+            "question": "Which of these statement(s) is/are TRUE about process availability in operations management?",
+            "options": {
+              "A": "Worsens when reliability is fixed & maintainability worsens",
+              "B": "Improves with improved maintainability but fixed reliability",
+              "C": "Improves with improved reliability but fixed maintainability",
+              "D": "All of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_19",
+            "question": "What are the 4 stages of product life cycle in operations management?",
+            "options": {
+              "A": "Introduction, growth, maturity & decline",
+              "B": "Design, growth, maturity & disposal",
+              "C": "Design, installation, decommissioning & disposal",
+              "D": "Introduction, growth, maturity & decommissioning"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_20",
+            "question": "What intellectual property protection is BEST for a new product with distinctive visual appeal?",
+            "options": {
+              "A": "Patent",
+              "B": "Trade Mark",
+              "C": "Copyright",
+              "D": "Design Registration"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_21",
+            "question": "Which of these is/are VALID inventory types in operations management?",
+            "options": {
+              "A": "Finished goods",
+              "B": "Pipeline",
+              "C": "Cycle",
+              "D": "All of the above"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Kaoot_20241213_22",
+            "question": "Which of the following is a function of DOWNWARD communication in operations?",
+            "options": {
+              "A": "Provide work instructions to subordinates",
+              "B": "Reporting production issues to management",
+              "C": "Presenting a draft budget report to the Board of Directors",
+              "D": "None of the above"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Kaoot_20241213_23",
+            "question": "Which of the following operation systems is the LEAST resilient?",
+            "options": {
+              "A": "A",
+              "B": "B",
+              "C": "C",
+              "D": "D"
+            },
+            "answer": "D",
+            "image": "Kaoot_20241213_23.png"
+          },
+          {
+            "id": "Kaoot_20241213_24",
+            "question": "Which of the following is a TRUE minimum cut set?",
+            "options": {
+              "A": "21",
+              "B": "24",
+              "C": "45",
+              "D": "35"
+            },
+            "answer": "C",
+            "image": "Kaoot_20241213_24.png"
+          },
+          {
+            "id": "Kaoot_20241213_25_NotForExam",
+            "question": "Which of these historic engineering operations disasters was the MOST devastating?",
+            "options": {
+              "A": "Concorde (Air France Flight 4590) Air Disaster",
+              "B": "Piper Alpha Disaster",
+              "C": "Bhopal Disaster",
+              "D": "Grenfell Tower Disaster"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test1_1",
+            "question": "At what product/service life cycle stage is an organisation most likely to compete with the highest number of substitutes?",
+            "options": {
+              "A": "Introduction",
+              "B": "Growth",
+              "C": "Decline",
+              "D": "Maturity"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Test1_2",
+            "question": "What product/service life cycle stage is often considered the costliest?",
+            "options": {
+              "A": "Decline",
+              "B": "Maturity",
+              "C": "Introduction",
+              "D": "Growth"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test1_3",
+            "question": "Which International Standards Organisation (ISO) series deals with the Quality Management System?",
+            "options": {
+              "A": "ISO 9001",
+              "B": "ISO 9000",
+              "C": "ISO 9002",
+              "D": "ISO 9003"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Test1_4",
+            "question": "The statement 'A vibrant higher education institution in the North West of England' is an example of:",
+            "options": {
+              "A": "Vision",
+              "B": "Mission",
+              "C": "Strategy",
+              "D": "Objective"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test1_5",
+            "question": "Which of the following activities is least associated with the 'Speculation Phase' of Value Engineering?",
+            "options": {
+              "A": "Detailed development",
+              "B": "Alternatives generation",
+              "C": "Brainstorming",
+              "D": "Alternatives ranking"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test2_1",
+            "question": "A process that handles extremely low-volume and high-variety can be referred to as:",
+            "options": {
+              "A": "Jobbing process",
+              "B": "Mass process",
+              "C": "One-off process",
+              "D": "Batch process"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test2_2",
+            "question": "The fraction of time that a process is unavailable for production can be referred to as:",
+            "options": {
+              "A": "Turnover",
+              "B": "Cycle time",
+              "C": "Downtime",
+              "D": "Throughput"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test2_3",
+            "question": "Which of these is/are LEAST used to measure process reliability in operations management?",
+            "options": {
+              "A": "Mean time to failure",
+              "B": "Mean time between failures",
+              "C": "Repair rate",
+              "D": "Failure rate"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test2_4",
+            "question": "A measure of the number of items that require re-manufacturing can be referred to as:",
+            "options": {
+              "A": "Rework",
+              "B": "Corrective maintenance",
+              "C": "Maintainability",
+              "D": "Repair rate"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test3_1",
+            "question": "A raw material with a constant Demand (D = 500 items/year), Ordering Cost (Co = £40/order), Storage Costs (Cs = £2/item/year), and Working Capital Cost (Cw = £2/item/year). The Economic Order Quantity (EOQ) for this product is:",
+            "options": {
+              "A": "142 items/order",
+              "B": "500 Items/Order",
+              "C": "400 items/order",
+              "D": "200 items/order",
+              "E": "100 items/order"
+            },
+            "answer": "E"
+          },
+          {
+            "id": "Test3_2",
+            "question": "In terms of inventory-related costs, loss when items become old-fashioned or deteriorate by age is better described as:",
+            "options": {
+              "A": "Storage/warehouse costs",
+              "B": "Cost of placing the order",
+              "C": "Obsolescence costs",
+              "D": "Working capital costs",
+              "E": "Price discount costs"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test3_3",
+            "question": "Which of the following are NOT features of the 'Periodic Review' approach to inventory management? (you can select more than one answer)",
+            "options": {
+              "A": "The stock level for the product is reviewed continuously",
+              "B": "Orders are placed to bring the stock up to an adequate level that covers demand between the time this order is being placed and the following order arriving.",
+              "C": "The timing of orders may be irregular",
+              "D": "Orders are made at fixed and a regular time intervals",
+              "E": "Triggered by inventory level"
+            },
+            "answer": "ACE"
+          },
+          {
+            "id": "Test3_4",
+            "question": "All supply chain management strategies share one common and central objective, which is:",
+            "options": {
+              "A": "Supply price competitive products and services to customers",
+              "B": "Respond to all changes and fluctuations in customer demand",
+              "C": "Satisfy customer needs and meet their requirements",
+              "D": "Deliver customer orders very fast",
+              "E": "Supply high quality products to end customers"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test3_5",
+            "question": "Which of the following are NOT features of 'Agile Supply Chain Management'? (you can select more than one answer)",
+            "options": {
+              "A": "Low cost and high utilisation",
+              "B": "Keeping minimum stocks of raw materials",
+              "C": "Associated with long lead times",
+              "D": "Emphasizes responsiveness and flexibility",
+              "E": "Used to manage supply chains of innovative/fashion products"
+            },
+            "answer": "ABC"
+          },
+          {
+            "id": "Test4_1",
+            "question": "_____________ typically deals with the analysis of the different ways by which an operations process can fail.",
+            "options": {
+              "A": "Reliability block diagram",
+              "B": "Reliability centred maintenance",
+              "C": "Total quality management",
+              "D": "Fault tree analysis"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Test4_2",
+            "question": "Which of the following is/are characteristics of business process re-engineering?",
+            "options": {
+              "A": "Process based analysis",
+              "B": "Radical improvement",
+              "C": "Functional analysis",
+              "D": "Training"
+            },
+            "answer": "AB"
+          },
+          {
+            "id": "Test4_3",
+            "question": "_____________ typically deals with the analysis of the different ways by which an operations process can succeed.",
+            "options": {
+              "A": "Reliability block diagram",
+              "B": "Minimal cut sets",
+              "C": "Reliability availability and maintainability",
+              "D": "Fault tree analysis"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test4_4",
+            "question": "According to the Operations System model, techniques such as total productive maintenance and total quality management would be most associated with which order of change?",
+            "options": {
+              "A": "First",
+              "B": "Second",
+              "C": "Third",
+              "D": "Fourth"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Test5_1",
+            "question": "The term die penetrant tests on at least 85% of produced load cells is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Quality assurance",
+              "B": "Effectiveness",
+              "C": "Efficiency",
+              "D": "Quality control"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Test5_2",
+            "question": "The following statements are most related to which aspect of the operations process model?\n- 100% calibration of all CNC machines after every shift\n- Employment of machinists with at least 6 years’ experience in high precision machining especially with military workshops",
+            "options": {
+              "A": "Quality control",
+              "B": "Reliability",
+              "C": "Effectiveness",
+              "D": "Quality assurance"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Test5_3",
+            "question": "The term wrought iron is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Input",
+              "B": "Output",
+              "C": "Materials",
+              "D": "Operations strategy"
+            },
+            "answer": "AC"
+          },
+          {
+            "id": "Test5_4",
+            "question": "The following statements are most related to which aspects of the operations system model?\n- COVID-19 imposed travel and operational restrictions\n- Legal actions\n- Massive strike actions across its manufacturing sites globally",
+            "options": {
+              "A": "Third order change",
+              "B": "PESTEL",
+              "C": "Legal",
+              "D": "Economic"
+            },
+            "answer": "ABCD"
+          },
+          {
+            "id": "Test5_5",
+            "question": "The statement 'looseness of lathe machine tool post at high speed and this is usually rectified by changing the fixation bolts at the leading edge before the commencement of the next batch of products' is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Input",
+              "B": "Machine",
+              "C": "First order change",
+              "D": "Materials"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test5_6",
+            "question": "The term centralised business solution is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Enterprise resource planning",
+              "B": "Technical database",
+              "C": "Reporting system",
+              "D": "Performance analysis"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test5_7",
+            "question": "The term FRP is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Materials",
+              "B": "Methods",
+              "C": "Transformation",
+              "D": "Reliability"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test5_8",
+            "question": "Drilling, shaping, boring, grinding and milling are terms that are most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Transformation",
+              "B": "Output",
+              "C": "Reliability",
+              "D": "Continuous improvement"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test5_9",
+            "question": "The term advanced high strength steels is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Input",
+              "B": "Output",
+              "C": "Quality assurance (QA)",
+              "D": "Quality control (QC)"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Test5_10",
+            "question": "The statement decision was made to locally source alternative raw materials is most related to which aspect of the operations system model?",
+            "options": {
+              "A": "Improvement",
+              "B": "Input",
+              "C": "Transformation",
+              "D": "Turnover"
+            },
+            "answer": "AB"
+          },
+          {
+            "id": "Test6_1",
+            "question": "Which of these is a reason for continuous improvement in operations?",
+            "options": {
+              "A": "High lost time injuries frequency rate (LTIFR)",
+              "B": "Growing/shrinking markets",
+              "C": "All of the above",
+              "D": "Low plant reliability"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test6_2",
+            "question": "Which of these is NOT considered one of the 3 KEY features of a typical process?",
+            "options": {
+              "A": "Variability",
+              "B": "Interface",
+              "C": "Dependency",
+              "D": "Cost-effectiveness"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Test6_3",
+            "question": "Which of these best describes a feature of continuous improvement in operations management?",
+            "options": {
+              "A": "All of the above",
+              "B": "Introduction of new and more efficient machines",
+              "C": "Ease of implementation",
+              "D": "Major changes to operations"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Test6_4",
+            "question": "Which of these operations improvement terms LEAST represents continuous improvement?",
+            "options": {
+              "A": "Business process re-engineering",
+              "B": "JIT/LEAN/Six Sigma",
+              "C": "TPM/TQM",
+              "D": "5S/6S"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Test6_5",
+            "question": "At what Sigma level would you say MOST manufacturing processes operate in reality?",
+            "options": {
+              "A": "6 Sigma",
+              "B": "3 Sigma",
+              "C": "5 Sigma",
+              "D": "4 Sigma"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Mock_Part1_1",
+            "question": "In the context of the case study provided, the statement 'The following sizes are manufactured M6 M8 M10 M12 M14 M16 M18 M20 and M25' is most associated with which stage within Figure OM?",
+            "options": {
+              "A": "W",
+              "B": "X",
+              "C": "Y",
+              "D": "Z"
+            },
+            "answer": "A",
+            "image": "Mock_Part1.png"
+          },
+          {
+            "id": "Mock_Part1_2",
+            "question": "In the context of the case study provided, the statement 'employs 178 people' is most associated with which stage within Figure OM?",
+            "options": {
+              "A": "Z",
+              "B": "U",
+              "C": "V",
+              "D": "W"
+            },
+            "answer": "C",
+            "image": "Mock_Part1.png"
+          },
+          {
+            "id": "Mock_Part1_3",
+            "question": "In the context of the case study provided, the statement 'turning fasteners using a lathe' is most associated with which stage within Figure OM?",
+            "options": {
+              "A": "Z",
+              "B": "V",
+              "C": "U",
+              "D": "W"
+            },
+            "answer": "A",
+            "image": "Mock_Part1.png"
+          },
+          {
+            "id": "Mock_Part1_4",
+            "question": "In the context of the case study provided, the statement 'with an average of 7 days delivery lead time from order request to reception of stock at the warehouse of Granby Limited supply polymers' is most associated with which stage within Figure OM?",
+            "options": {
+              "A": "U",
+              "B": "V",
+              "C": "W",
+              "D": "Y"
+            },
+            "answer": "A",
+            "image": "Mock_Part1.png"
+          },
+          {
+            "id": "Mock_Part2_1",
+            "question": "A combination of related tasks that enable the transformation of inputs to outputs can be referred to as:",
+            "options": {
+              "A": "Process",
+              "B": "Method",
+              "C": "Strategy",
+              "D": "Function",
+              "E": "Mission"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Mock_Part2_2",
+            "question": "A condition that must occur in order for a process to be performed is known as:",
+            "options": {
+              "A": "Decision",
+              "B": "Activity",
+              "C": "Input",
+              "D": "Event",
+              "E": "Task"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Mock_Part2_3",
+            "question": "The rate at which an operation converts investment into returns can be referred to as:",
+            "options": {
+              "A": "Downtime",
+              "B": "Turnover",
+              "C": "Uptime",
+              "D": "Throughput",
+              "E": "Cycle time"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Mock_Part2_4",
+            "question": "The ease with which a repair or replace action can be completed under specified conditions of time, quality and cost can be estimated through:",
+            "options": {
+              "A": "Reliability",
+              "B": "Repair rate",
+              "C": "Maintainability",
+              "D": "Availability",
+              "E": "Mean time between failures"
+            },
+            "answer": "BC"
+          },
+          {
+            "id": "Mock_Part2_5",
+            "question": "Which of these can be used to estimate the reliability of an operations process?",
+            "options": {
+              "A": "Mean time to failure",
+              "B": "Mean time between failures",
+              "C": "Turnover rate",
+              "D": "Repair rate",
+              "E": "Failure rate"
+            },
+            "answer": "ABE"
+          },
+          {
+            "id": "Mock_Part2_6",
+            "question": "An operations process that is most ideal for handling moderate volume and moderate variety can be referred to as:",
+            "options": {
+              "A": "Continuous process",
+              "B": "Batch process",
+              "C": "Project process",
+              "D": "One-off process",
+              "E": "Jobbing process"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Mock_Part2_7",
+            "question": "Identify the effectiveness parameter(s) from the following:",
+            "options": {
+              "A": "Customer satisfaction",
+              "B": "Response time",
+              "C": "Availability",
+              "D": "Reliability",
+              "E": "Throughput"
+            },
+            "answer": "AD"
+          },
+          {
+            "id": "Mock_Part2_8",
+            "question": "Identify the efficiency parameter(s) from the following:",
+            "options": {
+              "A": "Throughput",
+              "B": "Customer satisfaction",
+              "C": "Availability",
+              "D": "Reliability",
+              "E": "Response time"
+            },
+            "answer": "ACE"
+          },
+          {
+            "id": "Mock_Part2_9",
+            "question": "The drive belts of the Pariser building lifts have failed approximately 122 times in the last 25 years (one year = 365 days). The lifts are expected to operate continuously. Estimate the approximate most economic number of spare drive belts required for 18 months of uninterrupted operation of the lifts with a confidence level of 95% (z for 95% confidence level = 1.65).",
+            "options": {
+              "A": "11 drive belts",
+              "B": "15 drive belts",
+              "C": "9 drive belts",
+              "D": "20 drive belts",
+              "E": "27 drive belts"
+            },
+            "answer": "A",
+            "image": "Mock_Part2_Q9.png"
+          },
+          {
+            "id": "Mock_Part2_10",
+            "question": "Which of the following outcomes best describes A in the following Table?",
+            "options": {
+              "A": "Decreases",
+              "B": "Improves",
+              "C": "Constant",
+              "D": "Worsens",
+              "E": "Rises"
+            },
+            "answer": "C",
+            "image": "Mock_Part2_Q10-Q12.png"
+          },
+          {
+            "id": "Mock_Part2_11",
+            "question": "Which of the following outcomes best describes B in the following Table?",
+            "options": {
+              "A": "Decreases",
+              "B": "Constant",
+              "C": "Improves",
+              "D": "Steady",
+              "E": "Worsens"
+            },
+            "answer": "C",
+            "image": "Mock_Part2_Q10-Q12.png"
+          },
+          {
+            "id": "Mock_Part2_12",
+            "question": "Which of the following outcomes best describes C in the following Table?",
+            "options": {
+              "A": "Rises",
+              "B": "Steady",
+              "C": "Worsens",
+              "D": "Constant",
+              "E": "Improves"
+            },
+            "answer": "C",
+            "image": "Mock_Part2_Q10-Q12.png"
+          },
+          {
+            "id": "Mock_Part2_13",
+            "question": "A process reliability test revealed that 12 failures occurred after testing 27 hydraulic systems for 1525 hours. Select the approximate mean-time-between-failures (MTBF) from the following options.",
+            "options": {
+              "A": "1794",
+              "B": "3692",
+              "C": "3431",
+              "D": "2247",
+              "E": "3478"
+            },
+            "answer": "C"
+          },
+          {
+            "id": "Mock_Part2_14",
+            "question": "A process reliability test revealed that 12 failures occurred after testing 27 hydraulic systems for 1525 hours. Select the approximate mean-time-to-failures (MTTF) from the following options.",
+            "options": {
+              "A": "525",
+              "B": "1525",
+              "C": "500",
+              "D": "1522",
+              "E": "2215"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Mock_Part2_15",
+            "question": "Figure Q represents the reliability block diagram of the manufacturing process of engineering design components. If points A and B respectively denote the inlet and outlet of the process, identify the minimum path set(s) from the following options.",
+            "options": {
+              "A": "12467",
+              "B": "56423",
+              "C": "15",
+              "D": "123",
+              "E": "567"
+            },
+            "answer": "ABDE",
+            "image": "Mock_Part2_Q15.png"
+          },
+          {
+            "id": "Mock_Part2_16",
+            "question": "Figure Q represents the reliability block diagram of the manufacturing process of engineering design components. If points A and B respectively denote the inlet and outlet of the process, identify the minimum cut set(s) from the following options.",
+            "options": {
+              "A": "246",
+              "B": "56423",
+              "C": "15",
+              "D": "37",
+              "E": "12467"
+            },
+            "answer": "ABCDE",
+            "image": "Mock_Part2_Q16.png"
+          },
+          {
+            "id": "Mock_Part2_17",
+            "question": "A new 3D printing machine produces parts 2% faster than the previous machine. This is an example of:",
+            "options": {
+              "A": "Technology Push",
+              "B": "Incremental Innovation",
+              "C": "Marketing Innovation",
+              "D": "Radical Innovation",
+              "E": "Environmental Innovation"
+            },
+            "answer": "B"
+          },
+          {
+            "id": "Mock_Part2_18",
+            "question": "CompFast Ltd dismantle new computer products bought from their competitors to investigate how they work. This is a form of:",
+            "options": {
+              "A": "Experimentation",
+              "B": "Radical Innovation",
+              "C": "Networking",
+              "D": "Associating",
+              "E": "Cyclical Innovation"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Mock_Part2_19",
+            "question": "A company that wishes to be quick to enter the market with their new innovation should use which process?",
+            "options": {
+              "A": "Run development tasks in parallel to each other",
+              "B": "Run development tasks in series",
+              "C": "Organise tasks in a Waterfall model",
+              "D": "Organise tasks in an over-the-wall process",
+              "E": "Use a linear model of development"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Mock_Part2_20",
+            "question": "The decommissioning of coal-fired electrical power stations is an example of:",
+            "options": {
+              "A": "Structural change",
+              "B": "Cyclical change",
+              "C": "Intermittent change",
+              "D": "Innovation change",
+              "E": "Economic change"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Mock_Part2_21",
+            "question": "FastFoundation Ltd specify an innovative polymer component, supplied by PlastDuct Ltd to be cast into building foundations laid by FastFoundations Ltd. In the Henderson - Clark model this innovation fits best in which segment?",
+            "options": {
+              "A": "Modular innovation",
+              "B": "Incremental Innovation",
+              "C": "Radical Innovation",
+              "D": "Architectural Innovation",
+              "E": "Polymorphic Innovation"
+            },
+            "answer": "A"
+          },
+          {
+            "id": "Mock_Part2_22",
+            "question": "Inventory profile below shows a raw material with a perfectly predictable demand (D = 100 items/week), Lead Time (LT = 3 weeks), and Order Quantity (Q = 400 items/order). To prevent any stock-out occurring, orders should be placed in weeks:",
+            "options": {
+              "A": "2, 6, 10 ... etc.",
+              "B": "1, 5, 9 ... etc.",
+              "C": "0, 1, 2, 3, 4 ... etc.",
+              "D": "3, 7, 11 ... etc.",
+              "E": "0, 4, 8 ... etc."
+            },
+            "answer": "B",
+            "image": "Mock_Part2_Q22.png"
+          },
+          {
+            "id": "Mock_Part2_23",
+            "question": "During summer time, a clothing manufacturer is building a stock of woollen garments to meet the demand when it peaks in winter. This type of stock is better described as:",
+            "options": {
+              "A": "Pipeline inventory",
+              "B": "Cycle inventory",
+              "C": "Buffer (safety) inventory",
+              "D": "De-coupling inventory",
+              "E": "Anticipatory inventory"
+            },
+            "answer": "E"
+          },
+          {
+            "id": "Mock_Part2_24",
+            "question": "Agile supply chain policies are seen to be appropriate for which of the following products?",
+            "options": {
+              "A": "Fashion handbag",
+              "B": "Colgate toothpaste",
+              "C": "Christmas chocolates",
+              "D": "New mobile phones",
+              "E": "Classic shoes"
+            },
+            "answer": "ACD"
+          },
+          {
+            "id": "Mock_Part2_25",
+            "question": "Which of the following features are associated with the 'Lean Supply Chain Management'?",
+            "options": {
+              "A": "Long lead time",
+              "B": "Innovative products",
+              "C": "High utilization",
+              "D": "Min inventory",
+              "E": "Fast response"
+            },
+            "answer": "ACD"
+          },
+          {
+            "id": "Mock_Part2_26",
+            "question": "Which of the following policies help ease/reduce the bullwhip effect in supply chains?",
+            "options": {
+              "A": "Aligning production in all operations to end customer demand",
+              "B": "Having buffer stock to prevent any stock-out occurring",
+              "C": "Mergers in the supply chain",
+              "D": "Keeping more stock in operations",
+              "E": "Better forecasting of future demand"
+            },
+            "answer": "ACE"
+          },
+          {
+            "id": "Mock_Part2_27",
+            "question": "Which one of the following information does flow downstream in supply chains?",
+            "options": {
+              "A": "Purchase Orders (PO)",
+              "B": "Request for Information (RFI)",
+              "C": "Request for Quotation (RFQ)",
+              "D": "Request for Proposal (RFP)",
+              "E": "Quotation"
+            },
+            "answer": "E"
+          },
+          {
+            "id": "Mock_Part2_28",
+            "question": "Which of the following are features of the 'Continuous Review' approach to inventory management?",
+            "options": {
+              "A": "The timing of orders may be irregular",
+              "B": "Triggered by inventory level",
+              "C": "Orders are made at fixed and a regular time intervals",
+              "D": "Triggered by time",
+              "E": "The stock level for the product is reviewed continuously"
+            },
+            "answer": "ABE"
+          },
+          {
+            "id": "Mock_Part2_29",
+            "question": "A raw material with a constant Demand (D = 500 items/year), Ordering Cost (Co = £40/order), and Holding Cost (Ch = £4/item/year). Order Quantity for this product is (Q = 200 items/order). The total cost of the inventory for this product is:",
+            "options": {
+              "A": "£1000/year",
+              "B": "£800/year",
+              "C": "£100/year",
+              "D": "£500/year",
+              "E": "£400/year"
+            },
+            "answer": "D"
+          },
+          {
+            "id": "Mock_Part2_30",
+            "question": "Which of the following features are associated with multiple sourcing?",
+            "options": {
+              "A": "Speed and simplicity",
+              "B": "Sourcing standard products",
+              "C": "Long term relations with suppliers",
+              "D": "Competitive markets",
+              "E": "Low switching costs"
+            },
+            "answer": "BDE"
+          }
+    
+                    
+    ]
+}
